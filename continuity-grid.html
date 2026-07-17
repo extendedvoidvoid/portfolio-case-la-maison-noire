@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>001 — Continuity QC Grid</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Helvetica Neue", sans-serif; background: #0d0d0d; color: #e8e8e8; padding: 32px; }
+    h1 { font-weight: 300; letter-spacing: 0.1em; text-transform: uppercase; font-size: 20px; }
+    .sub { color: #777; font-size: 13px; margin: 8px 0 24px; }
+    .summary { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 28px; }
+    .badge { background: #1a1a1a; border: 1px solid #333; padding: 10px 16px; font-size: 12px; }
+    .badge strong { color: #aaa; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; display: block; margin-bottom: 4px; }
+    .pass { color: #6b9e6b; }
+    .partial { color: #c9a84c; }
+    .fail { color: #c96b6b; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; margin-bottom: 36px; }
+    .cell { background: #141414; border: 1px solid #2a2a2a; position: relative; }
+    .cell img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; filter: grayscale(1); }
+    .cell .status { position: absolute; top: 8px; right: 8px; font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; padding: 4px 8px; background: rgba(0,0,0,0.75); }
+    .meta { padding: 10px 12px; font-size: 12px; }
+    .num { color: #666; font-size: 10px; letter-spacing: 0.15em; }
+    table { width: 100%; border-collapse: collapse; font-size: 11px; margin-bottom: 32px; }
+    th, td { border: 1px solid #2a2a2a; padding: 8px 10px; text-align: center; }
+    th { background: #1a1a1a; color: #888; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; font-size: 9px; }
+    td:first-child, th:first-child { text-align: left; }
+    tr:hover td { background: #181818; }
+    h2 { font-size: 13px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: #888; margin: 24px 0 12px; }
+    .note { font-size: 11px; color: #666; margin-top: 20px; line-height: 1.5; max-width: 720px; }
+    a { color: #888; }
+  </style>
+</head>
+<body>
+  <h1>Continuity QC Grid</h1>
+  <p class="sub">001 Equilibrium · MADAME_X · Reviewed 2026-07-13 · <a href="character-sheet.html">Character sheet</a> · <a href="contact-sheet.html">Contact sheet</a></p>
+
+  <div class="summary">
+    <div class="badge"><strong>Portfolio</strong><span class="pass">Ready with notes</span></div>
+    <div class="badge"><strong>Pass</strong>4 shots</div>
+    <div class="badge"><strong>Partial</strong>7 shots</div>
+    <div class="badge"><strong>Fail</strong>0</div>
+    <div class="badge"><strong>Regen</strong>01 · 04 · 08 ✓</div>
+  </div>
+
+  <h2>Shot grid</h2>
+  <div class="grid">
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/00-character-reference.jpg" alt="00" /><div class="meta"><div class="num">00 · Ref</div>MADAME_X lock</div></div>
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/shot-01.jpg" alt="01" /><div class="meta"><div class="num">01 · 8s</div>The Corridor · regen ✓</div></div>
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/shot-02.jpg" alt="02" /><div class="meta"><div class="num">02 · 5s</div>Voyeur</div></div>
+    <div class="cell"><span class="status pass">pass</span><img src="assets/shots/001/shot-03.jpg" alt="03" /><div class="meta"><div class="num">03 · 6s</div>The Glove</div></div>
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/shot-04.jpg" alt="04" /><div class="meta"><div class="num">04 · 9s</div>Clinical Ritual · regen ✓</div></div>
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/shot-05.jpg" alt="05" /><div class="meta"><div class="num">05 · 7s</div>The Negotiation</div></div>
+    <div class="cell"><span class="status pass">pass</span><img src="assets/shots/001/shot-06.jpg" alt="06" /><div class="meta"><div class="num">06 · 6s</div>Tweed &amp; Skin</div></div>
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/shot-07.jpg" alt="07" /><div class="meta"><div class="num">07 · 8s</div>Hall of Mirrors</div></div>
+    <div class="cell"><span class="status partial">partial</span><img src="assets/shots/001/shot-08.jpg" alt="08" /><div class="meta"><div class="num">08 · 10s</div>Unlabeled Icon · regen ✓</div></div>
+    <div class="cell"><span class="status pass">pass</span><img src="assets/shots/001/shot-09.jpg" alt="09" /><div class="meta"><div class="num">09 · 8s</div>Departure</div></div>
+    <div class="cell"><span class="status pass">pass</span><img src="assets/shots/001/shot-10.jpg" alt="10" /><div class="meta"><div class="num">10 · 8s</div>Black · Scent</div></div>
+  </div>
+
+  <h2>Dimension scores</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Shot</th>
+        <th>Face</th>
+        <th>Chignon</th>
+        <th>Pearls</th>
+        <th>Curves</th>
+        <th>Tweed</th>
+        <th>Bottle</th>
+        <th>Dogs</th>
+        <th>B&amp;W</th>
+        <th>Overall</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>00 Ref</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="partial">○</td><td class="pass">●</td><td>—</td><td>—</td><td class="pass">●</td><td class="pass">pass</td></tr>
+      <tr><td>01 Corridor</td><td class="partial">○</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="partial">partial</td></tr>
+      <tr><td>02 Voyeur</td><td class="partial">○</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td>—</td><td class="pass">●</td><td class="pass">●</td><td class="partial">partial</td></tr>
+      <tr><td>03 Glove</td><td>—</td><td>—</td><td class="pass">●</td><td>—</td><td>—</td><td class="pass">●</td><td>—</td><td class="pass">●</td><td class="pass">pass</td></tr>
+      <tr><td>04 Clinical</td><td class="partial">○</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="partial">partial</td></tr>
+      <tr><td>05 Negotiation</td><td class="partial">○</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td>—</td><td class="pass">●</td><td class="pass">●</td><td class="partial">partial</td></tr>
+      <tr><td>06 Tweed</td><td>—</td><td>—</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td>—</td><td>—</td><td class="pass">●</td><td class="pass">pass</td></tr>
+      <tr><td>07 Mirrors</td><td class="partial">○</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="partial">partial</td></tr>
+      <tr><td>08 Icon</td><td class="partial">○</td><td class="partial">○</td><td class="pass">●</td><td>—</td><td>—</td><td class="pass">●</td><td class="pass">●</td><td class="pass">●</td><td class="partial">partial</td></tr>
+      <tr><td>09 Departure</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td class="partial">gone</td><td class="pass">●</td><td class="pass">●</td><td class="pass">pass</td></tr>
+      <tr><td>10 Black</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td class="pass">pass</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Costume states</h2>
+  <table>
+    <thead><tr><th>State</th><th>Name</th><th>Shots</th></tr></thead>
+    <tbody>
+      <tr><td>A</td><td>Full tailleur</td><td>01 · 02 · 05 · 07</td></tr>
+      <tr><td>B</td><td>Jacket open ritual</td><td>04</td></tr>
+      <tr><td>C</td><td>Hands only</td><td>03</td></tr>
+      <tr><td>D</td><td>Macro torso</td><td>06</td></tr>
+      <tr><td>E</td><td>Icon fragment</td><td>08</td></tr>
+      <tr><td>F</td><td>Absent</td><td>09 · 10</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Prop beats</h2>
+  <table>
+    <thead><tr><th>From</th><th>To</th><th>Beat</th></tr></thead>
+    <tbody>
+      <tr><td>01</td><td>03</td><td>Bottle moves from console tray to gloved hands</td></tr>
+      <tr><td>03</td><td>04</td><td>Bottle at vanity — scent on wrist</td></tr>
+      <tr><td>07</td><td>08</td><td>Bottle rises to ECU at lips</td></tr>
+      <tr><td>08</td><td>09</td><td>Bottle gone — tray remains, woman departed</td></tr>
+    </tbody>
+  </table>
+
+  <p class="note">
+    <strong>Recommended:</strong> grok-build <code>image_edit</code> on 01, 04, 08 for pixel face lock to 00-character-reference.jpg.
+    Optional regen 02, 05, 07 for consistency with post-regen corridor.
+    Machine data: <code>green/continuity-qc.json</code> · <code>green/costume-matrix.json</code> · <code>green/prop-matrix.json</code>
+  </p>
+</body>
+</html>

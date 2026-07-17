@@ -1,0 +1,148 @@
+{
+  "document": "research-intention-summary",
+  "project": "La Maison Noire",
+  "purpose": "Deep meaning from interviews — drives portfolio versions 001/002/003",
+  "last_updated": "2026-07-13",
+  "personal_references_file": "green/personal-references.json",
+  "personal_references_summary": {
+    "importance": "critical_personal",
+    "period": "2012–2018",
+    "strategy": "use_all_four_across_versions",
+    "refs": [
+      { "work": "Les Beiges stop-motion", "versions": ["002", "003"] },
+      { "work": "Here Comes the Beauty Pack", "versions": ["001"] },
+      { "work": "N°5 L'Eau / Lily-Rose", "versions": ["001", "003"] },
+      { "work": "Rouge Coco / Rouge Libre", "versions": ["002"] }
+    ]
+  },
+  "core_thesis": {
+    "statement": "A European fragrance film is about the woman who wears it, observed in a mansion where power, clinic, and couture collapse into one ritual.",
+    "portfolio_intention": "Chanel late-era grammar: Helleu simplicity, Lagerfeld codes, Newton power — no trademark."
+  },
+  "synthesis": {
+    "three_pillars": {
+      "newton": { "name": "The Voyeur's Mansion", "intention": "Power through observation; curved bodies with mass and threat" },
+      "lagerfeld": { "name": "The Material Architect", "intention": "Self as garment — tweed, pearl, glove, irony" },
+      "helleu": { "name": "The Abstract Woman", "intention": "Scent before name; unlabeled bottle; mythic absence" }
+    },
+    "unifying_meaning": "A curved powerful woman applies unnamed scent in a watching mansion. Dogs, steel, pearls witness. She leaves; scent remains; name never appears.",
+    "interviewer_should_feel": "Candidate knows Chanel image = Helleu + Karl + Newton, executed with Pfrunder continuity."
+  },
+  "portfolio_version_matrix": {
+    "001": {
+      "codename": "Equilibrium",
+      "pillar_weights": { "newton": 0.4, "lagerfeld": 0.35, "helleu": 0.25 },
+      "personal_refs": ["Here Comes the Beauty Pack (2013)", "N°5 L'Eau / Lily-Rose (2016)"]
+    },
+    "002": {
+      "codename": "The Clinic",
+      "pillar_weights": { "newton": 0.65, "lagerfeld": 0.2, "helleu": 0.15 },
+      "personal_refs": ["Rouge Coco / Rouge Libre (2016–18)", "Les Beiges powder craft (2013)"]
+    },
+    "003": {
+      "codename": "The Absence",
+      "pillar_weights": { "newton": 0.2, "lagerfeld": 0.25, "helleu": 0.55 },
+      "personal_refs": ["Les Beiges stop-motion waves (2013)", "N°5 L'Eau identity / you know me and you don't (2016)"]
+    }
+  },
+  "sources": [
+    {
+      "id": "newton_dw_power",
+      "person": "Helmut Newton",
+      "source_url": "https://www.dw.com/en/helmut-newton-women-power-and-photography/a-55443813",
+      "deep_intention": "Woman documented not performing; curves are authority; viewer is complicit.",
+      "drives_shots": ["01", "02", "05", "07"]
+    },
+    {
+      "id": "newton_vam_sie_kommen",
+      "work": "Sie Kommen (Dressed) 1981",
+      "source_url": "https://collections.vam.ac.uk/item/O123154/sie-kommen-dressed-photograph-newton-helmut/",
+      "deep_intention": "Clothing does not tame power; tall self-assured sensuous women.",
+      "drives_shots": ["01", "02", "05", "06"]
+    },
+    {
+      "id": "newton_foundation_sleepless",
+      "work": "Sleepless Nights / Big Nudes",
+      "source_url": "https://newton-foundation.org/en/ausstellungen/white-women-sleepless-nights-big-nudes/",
+      "deep_intention": "Medical props + fashion = clinic as boudoir; monumental flesh.",
+      "drives_shots": ["03", "04", "06", "08"]
+    },
+    {
+      "id": "helleu_wwd",
+      "person": "Jacques Helleu",
+      "source_url": "https://wwd.com/beauty-industry-news/beauty-features/feature/jacques-helleu-chanel-image-mastermind-69-1029811-1867264/",
+      "deep_intention": "Simplicity = remove explanation; invented égérie system; abstract plural woman.",
+      "drives_shots": ["08", "09", "10"]
+    },
+    {
+      "id": "helleu_figaro_2004",
+      "person": "Jacques Helleu",
+      "source_url": "https://www.lefigaro.fr/industrie-mode/l-interview-poil-a-gratter-de-jacques-helleu-en-2004-20210108",
+      "deep_intention": "Irony as native tongue; faces elected by mythic readability.",
+      "drives_shots": ["01", "05", "07"]
+    },
+    {
+      "id": "pfrunder_wwd",
+      "person": "Éric Pfrunder",
+      "source_url": "https://wwd.com/fashion-news/designer-luxury/eric-pfrunder-dies-karl-lagerfeld-photography-1235439208/",
+      "deep_intention": "Hired Newton's assistant for Karl; 7L studio; image is infrastructure.",
+      "drives_shots": ["all"]
+    },
+    {
+      "id": "lagerfeld_no5",
+      "person": "Karl Lagerfeld",
+      "source_url": "https://en.wikipedia.org/wiki/No._5_the_Film",
+      "deep_intention": "Fragrance film = costume drama; material obsession.",
+      "drives_shots": ["01", "04", "05", "07"]
+    },
+    {
+      "id": "luhrmann_vf",
+      "person": "Baz Luhrmann",
+      "source_url": "https://www.vanityfair.com/style/2014/09/a-conversation-with-baz-luhrmann-on-chanel-no-5-s-the-one-that-i-want",
+      "deep_intention": "Woman not product; unmade film trailer; silence replaces dialogue.",
+      "drives_shots": ["02", "05", "09", "10"]
+    },
+    {
+      "id": "harlech_another",
+      "person": "Amanda Harlech",
+      "source_url": "https://www.anothermag.com/design-living/3251/lady-amanda-harlech",
+      "deep_intention": "Past in every present moment — mansion as temporal collapse.",
+      "drives_shots": ["01", "07", "09"]
+    },
+    {
+      "id": "showstudio_n5",
+      "person": "Thomas du Pré de Saint Maur",
+      "source_url": "https://www.showstudio.com/projects/chanel-n5-inventing-the-dream",
+      "deep_intention": "N°5 as cumulative dream — versions are temperature shifts not new products.",
+      "drives_shots": ["all"]
+    },
+    {
+      "id": "personal_les_beiges_stop_motion",
+      "work": "Chanel Les Beiges — Sarah Beeby (AnOther, 2013)",
+      "source_url": "https://vimeo.com/63858642",
+      "deep_intention": "Powder and brush as arty stop-motion landscape — beauty material has character; Vimeo-era editorial craft.",
+      "drives_shots": ["03", "04", "06", "08"],
+      "personal": true
+    },
+    {
+      "id": "personal_n5_leau_lily_rose",
+      "work": "Chanel N°5 L'Eau — Lily-Rose Depp / Johan Renck (2016)",
+      "source_url": "https://www.youtube.com/watch?v=NLL38X683Qk",
+      "deep_intention": "LA luminous youth + photo-shoot appetite; gold-magenta edge light echoing Neon Demon ending (Natasha Braier, 2016).",
+      "drives_shots": ["02", "05", "07", "08"],
+      "personal": true
+    }
+  ],
+  "shot_intention_map": {
+    "01": { "meaning": "Entrance into power", "primary_source": "newton_vam_sie_kommen" },
+    "02": { "meaning": "Camera as guilty witness", "primary_source": "newton_dw_power" },
+    "03": { "meaning": "Hands as ritual agents", "primary_source": "pfrunder_wwd" },
+    "04": { "meaning": "Perfume as procedure", "primary_source": "newton_foundation_sleepless" },
+    "05": { "meaning": "Woman vs dog power contest", "primary_source": "newton_vam_sie_kommen" },
+    "06": { "meaning": "Cloth becomes flesh", "primary_source": "lagerfeld_no5" },
+    "07": { "meaning": "Infinite self-surveillance", "primary_source": "luhrmann_vf" },
+    "08": { "meaning": "Identity is shape and light", "primary_source": "helleu_wwd" },
+    "09": { "meaning": "Presence without body", "primary_source": "helleu_figaro_2004" },
+    "10": { "meaning": "Ad refuses to name itself", "primary_source": "helleu_wwd" }
+  }
+}

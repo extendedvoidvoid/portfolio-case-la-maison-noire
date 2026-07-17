@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>001 — MADAME_X Character Sheet</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Helvetica Neue", sans-serif; background: #0d0d0d; color: #e8e8e8; padding: 36px; }
+    h1 { font-weight: 300; letter-spacing: 0.12em; text-transform: uppercase; font-size: 22px; }
+    .sub { color: #777; font-size: 13px; margin: 8px 0 28px; max-width: 720px; line-height: 1.5; }
+    .specs { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-bottom: 28px; }
+    .spec { background: #1a1a1a; border: 1px solid #2a2a2a; padding: 12px 14px; font-size: 12px; }
+    .spec strong { display: block; color: #999; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 4px; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr 1fr; } }
+    .panel { background: #141414; border: 1px solid #2e2e2e; }
+    .panel img { width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; filter: grayscale(1); }
+    .meta { padding: 12px 14px; border-top: 1px solid #2a2a2a; }
+    .label { font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase; color: #666; }
+    .title { font-size: 14px; margin-top: 4px; }
+    .note { font-size: 11px; color: #888; margin-top: 6px; line-height: 1.4; }
+    .qc { margin-top: 28px; padding: 16px; background: #1a1a1a; border-left: 3px solid #444; font-size: 12px; color: #aaa; }
+    .qc strong { color: #ccc; }
+  </style>
+</head>
+<body>
+  <h1>MADAME_X — Character Sheet</h1>
+  <p class="sub">001 Equilibrium · 6-panel continuity lock · Use before any regen or video pass. Shots 01, 04, 08 regenerated 2026-07-13 from this reference.</p>
+
+  <div class="specs">
+    <div class="spec"><strong>Height</strong>178 cm</div>
+    <div class="spec"><strong>Body</strong>Newton curves — full bust, cinched waist, strong hips, long legs</div>
+    <div class="spec"><strong>Face</strong>Angular jaw, high cheekbones, wide-set dark eyes, full lips</div>
+    <div class="spec"><strong>Hair</strong>Black lacquered chignon, center part</div>
+    <div class="spec"><strong>Jewelry</strong>Triple-strand pearl necklace when neck visible</div>
+    <div class="spec"><strong>Costume</strong>B&amp;W houndstooth tweed tailleur, white piping, black pumps</div>
+    <div class="spec"><strong>Bottle</strong>Unlabeled faceted crystal — N°5 silhouette echo</div>
+    <div class="spec"><strong>Dogs</strong>Two Dobermans OR one greyhound per shot — never both</div>
+  </div>
+
+  <div class="grid">
+    <div class="panel">
+      <img src="assets/shots/001/00-character-reference.jpg" alt="Canonical reference" />
+      <div class="meta">
+        <div class="label">Panel 1 · Canonical</div>
+        <div class="title">Face + full body 3/4</div>
+        <div class="note">Source of truth for regen. Chignon, pearls, tweed, curves.</div>
+      </div>
+    </div>
+    <div class="panel">
+      <img src="assets/shots/001/shot-01.jpg" alt="Full length corridor" />
+      <div class="meta">
+        <div class="label">Panel 2 · Entrance</div>
+        <div class="title">Full-length 3/4 front</div>
+        <div class="note">Regen ✓ · Checkerboard corridor, Dobermans, tray.</div>
+      </div>
+    </div>
+    <div class="panel">
+      <img src="assets/shots/001/shot-05.jpg" alt="Profile seated" />
+      <div class="meta">
+        <div class="label">Panel 3 · Profile</div>
+        <div class="title">Seated, sunglasses removing</div>
+        <div class="note">Stillness vs Doberman · profile jaw line.</div>
+      </div>
+    </div>
+    <div class="panel">
+      <img src="assets/shots/001/shot-06.jpg" alt="Tweed curves" />
+      <div class="meta">
+        <div class="label">Panel 4 · Body</div>
+        <div class="title">Tweed to décolleté</div>
+        <div class="note">Curves in structured jacket — never runway-thin.</div>
+      </div>
+    </div>
+    <div class="panel">
+      <img src="assets/shots/001/shot-03.jpg" alt="Gloved hands" />
+      <div class="meta">
+        <div class="label">Panel 5 · Hands</div>
+        <div class="title">Lace gloves + bottle</div>
+        <div class="note">Ritual agents · no face required.</div>
+      </div>
+    </div>
+    <div class="panel">
+      <img src="assets/shots/001/shot-08.jpg" alt="Bottle ECU" />
+      <div class="meta">
+        <div class="label">Panel 6 · Icon</div>
+        <div class="title">ECU bottle + lips</div>
+        <div class="note">Regen ✓ · Gold-magenta rim (N°5 L'Eau ref) · Helleu absence.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="qc">
+    <strong>Continuity QC checklist:</strong> Same chignon across panels · pearls when neck visible · tweed weave consistent · bottle unlabeled · curves visible in 2, 4, 6 · dogs per shot rule respected.
+  </div>
+</body>
+</html>

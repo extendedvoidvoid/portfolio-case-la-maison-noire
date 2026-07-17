@@ -1,0 +1,98 @@
+{
+  "character_id": "MADAME_X",
+  "locked_across_versions": ["001", "002", "003"],
+  "last_updated": "2026-07-13",
+  "physical": {
+    "height_cm": 178,
+    "body": "Helmut Newton curves — full bust, cinched waist, strong hips, long athletic legs. Flesh visible, never runway-thin.",
+    "face": "Angular jaw, high cheekbones, wide-set dark eyes, strong brows, full lips",
+    "hair": "Black lacquered chignon, center-part",
+    "skin": "Pale porcelain, B&W high contrast"
+  },
+  "face_map": {
+    "structure": "Angular jaw tapering to defined chin; high cheekbones with shadow plane under cheek",
+    "eyes": "Wide-set, dark, almond — calm direct gaze or averted upward (ref pose)",
+    "brows": "Strong, dark, natural arch — never over-plucked",
+    "lips": "Full, defined cupid's bow; dark lipstick in ECU (shot 08)",
+    "nose": "Straight bridge, refined tip — profile visible shot 05",
+    "skin_treatment": "Pale porcelain, high-contrast B&W; shot 08 may carry subtle gold-magenta rim (personal ref N°5 L'Eau)",
+    "hair_detail": "Sleek low bun at nape, lacquered finish, center part when front visible",
+    "never_in_frame": [
+      "Chanel camellia pin",
+      "Sunglasses worn in shot 08 (removing only in 05)",
+      "Different face / different woman between shots",
+      "Runway-thin body"
+    ]
+  },
+  "wardrobe_states": {
+    "A_full_tailleur": {
+      "shots": ["01", "02", "05", "07"],
+      "pieces": "B&W houndstooth tweed jacket + knee skirt, white piping trim, black pumps",
+      "jewelry": "Triple-strand pearl necklace"
+    },
+    "B_jacket_open": {
+      "shots": ["04"],
+      "pieces": "Tailleur jacket open at collarbone, lace gloves",
+      "jewelry": "Triple-strand pearls"
+    },
+    "C_hands_only": {
+      "shots": ["03"],
+      "pieces": "Fingerless black lace gloves only",
+      "jewelry": "Pearl edge on tray"
+    },
+    "D_macro_torso": {
+      "shots": ["06"],
+      "pieces": "Tweed jacket CU, décolleté visible",
+      "jewelry": "Pearls resting on curves"
+    },
+    "E_icon_fragment": {
+      "shots": ["08"],
+      "pieces": "Lip edge, pearl earring partial",
+      "jewelry": "Single pearl earring"
+    },
+    "F_absent": {
+      "shots": ["09", "10"],
+      "pieces": "Woman not in frame"
+    }
+  },
+  "prop_specs": {
+    "bottle": {
+      "description": "Unlabeled faceted crystal rectangular bottle, N°5 silhouette echo, silver/crystal stopper",
+      "continuity": "Same bottle object from shot 01 tray through 08 ECU; gone in 09"
+    },
+    "tray": {
+      "description": "Polished silver rectangular tray — appears 01, 03, 09 (empty bottle beat)"
+    },
+    "medical": {
+      "description": "Metal tray, syringe, white gloves — shot 04 only (Newton clinic)"
+    },
+    "dogs": {
+      "rule": "Two black Dobermans OR one greyhound per shot — never both",
+      "dobermans": ["01", "02", "05", "07", "08", "09"],
+      "greyhound": ["04"]
+    }
+  },
+  "matrices": {
+    "costume": "green/costume-matrix.json",
+    "props": "green/prop-matrix.json",
+    "continuity_qc": "green/continuity-qc.json"
+  },
+  "prompt_prefix": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Pale skin, B&W high-contrast fashion photography. Same woman throughout.",
+  "fixed_props": {
+    "bottle": "Unlabeled faceted crystal, N°5 silhouette echo",
+    "jewelry": "Triple-strand pearl necklace when neck visible",
+    "dogs": "Two black Dobermans OR one greyhound per shot — never both"
+  },
+  "shots": {
+    "01": { "angle": "Full-length 3/4 front", "costume": "B&W tweed tailleur, pearls, pumps", "look": "Commanding entrance, curves in structured jacket", "wardrobe_state": "A" },
+    "02": { "angle": "High voyeur from staircase", "costume": "Same tailleur, pearls", "look": "Crossing below, indifferent to camera", "wardrobe_state": "A" },
+    "03": { "angle": "MCU hands", "costume": "Fingerless lace gloves", "look": "Lifts bottle — no face", "wardrobe_state": "C" },
+    "04": { "angle": "Low 3/4 at vanity", "costume": "Jacket open at collarbone, gloves, pearls", "look": "Scent on wrist, medical still life", "wardrobe_state": "B" },
+    "05": { "angle": "Profile seated", "costume": "Tailleur, sunglasses removing, pearls", "look": "Stillness vs Doberman", "wardrobe_state": "A" },
+    "06": { "angle": "Macro tweed to décolleté", "costume": "Tailleur CU, pearls on curves", "look": "Material meets flesh", "wardrobe_state": "D" },
+    "07": { "angle": "Orbit 3/4 front", "costume": "Tailleur, bottle at sternum, pearls", "look": "Mirror multiplication", "wardrobe_state": "A" },
+    "08": { "angle": "ECU bottle, lips edge", "costume": "Pearls partial", "look": "Light on facets", "wardrobe_state": "E" },
+    "09": { "angle": "Wide empty", "costume": "N/A", "look": "Tray remains, dogs only", "wardrobe_state": "F" },
+    "10": { "angle": "Black frame", "costume": "N/A", "look": "Pure absence", "wardrobe_state": "F" }
+  }
+}
