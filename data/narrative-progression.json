@@ -1,0 +1,158 @@
+{
+  "document": "narrative-progression",
+  "project": "La Maison Noire",
+  "version": "001",
+  "codename": "Equilibrium",
+  "local_only": true,
+  "last_updated": "2026-07-17",
+  "job_offer": {
+    "id": "4406638",
+    "role": "Concepteur-Rédacteur Senior Films et Images — Parfums Beauté",
+    "employer": "CHANEL",
+    "purpose_of_film": "Spec portfolio bridge for beauty/perfume gap — prove film + 360 thinking without claiming official work"
+  },
+  "logline": "In a watching Paris mansion, a powerful woman (Newton body, not product) performs an unnamed scent ritual. The camera is complicit. Light, not logo, names the object. She leaves; scent remains.",
+  "theme_truby": "Identity without brand name is the ultimate luxury.",
+  "frameworks": {
+    "mckee": "Progressive complication via value charges on every shot",
+    "snyder_compressed": "Opening image → theme (gaze) → catalyst (ritual) → midpoint (mirrors) → final image (black)",
+    "harmon_light": "Enter mansion → want control/identity through scent → take the ritual → return empty-handed / scent remains",
+    "image_grammar": "Newton 1976–81",
+    "temperature": "N°5 L'Eau 2016 light codes on 02/05/07/08 only — no likeness",
+    "ending_philosophy": "Helleu simplicity"
+  },
+  "acts": [
+    {
+      "act": 1,
+      "name": "Arrival",
+      "shots": ["01", "02", "03"],
+      "function": "World, gaze, ritual begins"
+    },
+    {
+      "act": 2,
+      "name": "Ritual",
+      "shots": ["04", "05", "06", "07"],
+      "function": "Procedure, power contest, material, multiplication"
+    },
+    {
+      "act": 3,
+      "name": "Afterimage",
+      "shots": ["08", "09", "10"],
+      "function": "Icon without name, departure, black hold"
+    }
+  ],
+  "beats": [
+    {
+      "id": "01",
+      "title": "The Corridor",
+      "beat_id": "opening_image",
+      "snyder": "Opening Image",
+      "harmon": "You (enter world)",
+      "value_charge": { "from": "anonymity", "to": "power_presence" },
+      "inspiration": "Newton Sie Kommen entrance",
+      "job_facing_why": "World + casting codes"
+    },
+    {
+      "id": "02",
+      "title": "Voyeur",
+      "beat_id": "theme_stated",
+      "snyder": "Theme Stated",
+      "harmon": "Need (to control how she is seen)",
+      "value_charge": { "from": "power", "to": "watched_power" },
+      "inspiration": "Newton voyeur + L'Eau appetite (codes)",
+      "job_facing_why": "Image culture / complicit camera"
+    },
+    {
+      "id": "03",
+      "title": "The Glove",
+      "beat_id": "setup_ritual",
+      "snyder": "Setup",
+      "harmon": "Go (cross threshold into ritual)",
+      "value_charge": { "from": "body", "to": "hand_as_agent" },
+      "inspiration": "Pfrunder craft / Les Beiges material",
+      "job_facing_why": "Touch without packshot"
+    },
+    {
+      "id": "04",
+      "title": "Clinical Ritual",
+      "beat_id": "catalyst",
+      "snyder": "Catalyst",
+      "harmon": "Search",
+      "value_charge": { "from": "desire", "to": "procedure" },
+      "inspiration": "Newton Sleepless Nights clinic",
+      "job_facing_why": "Beauté as precision craft"
+    },
+    {
+      "id": "05",
+      "title": "The Negotiation",
+      "beat_id": "debate",
+      "snyder": "Debate",
+      "harmon": "Find",
+      "value_charge": { "from": "control_contested", "to": "stillness_wins" },
+      "inspiration": "Newton monumental stillness + L'Eau rim",
+      "job_facing_why": "Character > product"
+    },
+    {
+      "id": "06",
+      "title": "Tweed & Skin",
+      "beat_id": "break_into_material",
+      "snyder": "Break into Two (B-story material)",
+      "harmon": "Take",
+      "value_charge": { "from": "armor", "to": "flesh" },
+      "inspiration": "Lagerfeld material obsession",
+      "job_facing_why": "Print KV / texture 360"
+    },
+    {
+      "id": "07",
+      "title": "Hall of Mirrors",
+      "beat_id": "midpoint",
+      "snyder": "Midpoint",
+      "harmon": "Return changed (multiplied self)",
+      "value_charge": { "from": "singular_self", "to": "multiplied_surveillance" },
+      "inspiration": "Luhrmann + L'Eau multi-self",
+      "job_facing_why": "Social / multi-format identity"
+    },
+    {
+      "id": "08",
+      "title": "Unlabeled Icon",
+      "beat_id": "icon_all_is_lost_named_by_light",
+      "snyder": "All Is Lost / Dark Night (name refused)",
+      "harmon": "Change (object becomes subject)",
+      "value_charge": { "from": "woman_subject", "to": "bottle_as_light_object" },
+      "inspiration": "Helleu + L'Eau rim on crystal",
+      "job_facing_why": "Scent before name"
+    },
+    {
+      "id": "09",
+      "title": "Departure",
+      "beat_id": "finale_return",
+      "snyder": "Finale",
+      "harmon": "Return (empty corridor)",
+      "value_charge": { "from": "presence", "to": "imprint_without_body" },
+      "inspiration": "Helleu absence",
+      "job_facing_why": "Memory of scent"
+    },
+    {
+      "id": "10",
+      "title": "Black · Scent",
+      "beat_id": "final_image",
+      "snyder": "Final Image",
+      "harmon": "Change is real (void holds scent)",
+      "value_charge": { "from": "world", "to": "void_holds_scent" },
+      "inspiration": "Helleu simplicity",
+      "job_facing_why": "Radical luxury CR craft"
+    }
+  ],
+  "interview_talking_points": [
+    "Lineage: Pfrunder hired Newton's assistant for Lagerfeld — this ad continues a documented European image pipeline (Newton power + mansion).",
+    "Helleu rule: unlabeled bottle = simplicity as radical luxury; archetype not égérie; film ends before the logo.",
+    "L'Eau temperature (codes only): luminous edge appetite on key shots — contemporary fragrance light without celebrity likeness — proves Parfums Beauté sensibility."
+  ],
+  "declinaisons_360": [
+    { "format": "Film hero 16:9", "asset": "75s storyboard / animatic" },
+    { "format": "Social 9:16", "asset": "Crop shots 04, 08 — ritual + icon" },
+    { "format": "Print key visual", "asset": "Shot 06 tweed & skin + 08 bottle ECU" },
+    { "format": "CRM subject", "asset": "Line: « Ce qui reste quand le nom s'efface. »" }
+  ],
+  "legal": "Spec portfolio only. No Chanel trademark. No real-person likeness."
+}

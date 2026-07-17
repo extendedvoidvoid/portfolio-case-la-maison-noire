@@ -1,7 +1,23 @@
 {
   "character_id": "MADAME_X",
   "locked_across_versions": ["001", "002", "003"],
-  "last_updated": "2026-07-13",
+  "last_updated": "2026-07-17",
+  "period_locks": {
+    "makeup_da": "2016 Chanel Parfums Beauté luminous (research/da-2016-chanel-parfums-beaute.md)",
+    "costume_period": "2016–2018 house codes — tweed, pearls, black/white (research/costume-lock-2016-2018.md)",
+    "image_institution": "Thomas du Pré de Saint Maur — Global Creative Resources Fragrance & Beauty",
+    "film_execution_ref": "Johan Renck N°5 L'Eau 2016 — light/appetite codes only, no likeness",
+    "body_gaze": "Newton 1976–81 grammar",
+    "ending": "Helleu simplicity"
+  },
+  "makeup_lock_2016": {
+    "skin": "Luminous fresh porcelain — dewy radiance under hard fashion light",
+    "eyes": "Soft definition, clean lid; soft smoke only if still luminous",
+    "brows": "Strong, dark, natural arch",
+    "lips": "Full defined cupid's bow; natural deep / dark fashion",
+    "ban": ["matte Instagram glam", "teen soft beauty only", "real-person likeness", "logo makeup look"],
+    "continuity": "Same makeup recipe on every face-visible shot"
+  },
   "physical": {
     "height_cm": 178,
     "body": "Helmut Newton curves — full bust, cinched waist, strong hips, long athletic legs. Flesh visible, never runway-thin.",
@@ -15,7 +31,7 @@
     "brows": "Strong, dark, natural arch — never over-plucked",
     "lips": "Full, defined cupid's bow; dark lipstick in ECU (shot 08)",
     "nose": "Straight bridge, refined tip — profile visible shot 05",
-    "skin_treatment": "Pale porcelain, high-contrast B&W; shot 08 may carry subtle gold-magenta rim (personal ref N°5 L'Eau)",
+    "skin_treatment": "Pale porcelain, high-contrast B&W; shots 02/05/07/08 may carry subtle gold-magenta rim light (personal ref N°5 L'Eau codes only — research/lily-rose-n5-leau-2016.md; no likeness)",
     "hair_detail": "Sleek low bun at nape, lacquered finish, center part when front visible",
     "never_in_frame": [
       "Chanel camellia pin",
@@ -77,7 +93,7 @@
     "props": "green/prop-matrix.json",
     "continuity_qc": "green/continuity-qc.json"
   },
-  "prompt_prefix": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Pale skin, B&W high-contrast fashion photography. Same woman throughout.",
+  "prompt_prefix": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout.",
   "fixed_props": {
     "bottle": "Unlabeled faceted crystal, N°5 silhouette echo",
     "jewelry": "Triple-strand pearl necklace when neck visible",

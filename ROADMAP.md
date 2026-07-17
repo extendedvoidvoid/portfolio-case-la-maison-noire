@@ -32,6 +32,15 @@ Bring: laptop with GitHub Pages URL + offline copy of `index.html`.
 
 ---
 
+## Local generation pack (2026-07-17)
+
+- [x] `research/` — Newton 1976–81 · L’Eau codes · Helleu (read before regen)
+- [x] `data/shots-001.json` — 10 formal prompts + beats + job_facing_why
+- [x] `data/narrative-progression.json` — McKee/STC spine for offre 4406638
+- [x] `~/projects/chanel-apply/role-story-brief.md` — candidature bridge
+- [ ] Image regen only after user OK
+- [ ] Push Pages only after story lock OK
+
 ## Optional next (post-deploy)
 
 - [ ] Sound design on animatic (minimal piano + silence)

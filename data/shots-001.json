@@ -1,0 +1,399 @@
+{
+  "document": "shots-001-generation-pack",
+  "project": "La Maison Noire",
+  "version": "001",
+  "codename": "Equilibrium",
+  "local_only": true,
+  "last_updated": "2026-07-17",
+  "research_dir": "research/",
+  "character_bible": "data/character-bible.json",
+  "prompt_prefix": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout.",
+  "legal_suffix": "Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+  "newton_period_codes": "Helmut Newton 1976-1981 grammar: hard side light, deep shadows, voyeur distance, tall self-assured curved woman documented not performing, mansion marble architecture.",
+  "leau_rim_codes": "Subtle gold-magenta luminous edge light on crystal or skin rim only — photo-shoot appetite, desire to be seen. No celebrity likeness.",
+  "shots": [
+    {
+      "id": "01",
+      "title": "The Corridor",
+      "duration_s": 8,
+      "act": 1,
+      "beat_id": "opening_image",
+      "value_charge": {
+        "from": "anonymity",
+        "to": "power_presence"
+      },
+      "job_facing_why": "Establish brand world + casting codes in one entrance — power, not product demo.",
+      "inspiration_ids": [
+        "newton_vam_sie_kommen",
+        "harlech_another",
+        "lagerfeld_no5"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md"
+      ],
+      "wardrobe_state": "A_full_tailleur",
+      "source_frame": "assets/shots/001/shot-01.jpg",
+      "status": "regen_v1_2026-07-17",
+      "camera": "Wide static, centered symmetry. Slow 2% push-in.",
+      "action": "Checkerboard marble corridor. Woman enters frame left, full length, black tweed tailleur. Dobermans flank. Silver tray with unlabeled bottle on console.",
+      "light": "Single hard source camera-right. Deep shadows left. No fill.",
+      "sound": "Heels on marble. Dog collar faint. Room tone.",
+      "continuity_locks": [
+        "chignon",
+        "pearls",
+        "tweed_tailleur",
+        "bottle_on_tray",
+        "dobermans",
+        "checkerboard_marble"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Full-length 3/4 front commanding entrance in B&W houndstooth tweed tailleur jacket and knee skirt, white piping, black pumps, walking into a Paris hôtel particulier corridor with black-and-white checkerboard marble floor. Two black Dobermans flank her as sentinels. Silver tray with unlabeled faceted crystal perfume bottle on console. Wide static centered composition, hard side light camera-right, deep shadows left, no fill. Helmut Newton 1976-1981 grammar: tall self-assured curved woman documented not performing, power entrance like Sie Kommen energy. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Slow 2% push-in, heels step once, Dobermans still, room tone."
+    },
+    {
+      "id": "02",
+      "title": "Voyeur",
+      "duration_s": 5,
+      "act": 1,
+      "beat_id": "theme_stated",
+      "value_charge": {
+        "from": "power",
+        "to": "watched_power"
+      },
+      "job_facing_why": "Theme of image culture: the camera is complicit — CR understanding of gaze.",
+      "inspiration_ids": [
+        "newton_dw_power",
+        "personal_n5_leau_lily_rose",
+        "luhrmann_vf"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md",
+        "research/lily-rose-n5-leau-2016.md"
+      ],
+      "wardrobe_state": "A_full_tailleur",
+      "source_frame": "assets/shots/001/shot-02.jpg",
+      "status": "regen_v1_2026-07-17",
+      "camera": "High angle from staircase landing. Partial obstruction by balustrade.",
+      "action": "Woman crosses below, pearls catching light. One dog looks up toward camera — breaks fourth wall.",
+      "light": "Overhead chandelier dimmed to 20%. Newton surveillance mood. Optional subtle luminous edge on pearls.",
+      "sound": "Silence swells. Single piano note.",
+      "continuity_locks": [
+        "chignon",
+        "pearls",
+        "tweed_tailleur",
+        "dobermans",
+        "staircase_balustrade"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. High voyeur angle from staircase landing, balustrade partially obstructing frame. Below, MADAME_X in same B&W tweed tailleur crosses the hall indifferent to camera. One black Doberman looks up toward lens. Dim chandelier at 20%. Hard fashion B&W with subtle gold-magenta luminous edge light catching pearls — photo-shoot appetite, she knows she is seen. Newton surveillance grammar: viewer as guilty witness. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "She walks two steps; dog head turns to camera; silence."
+    },
+    {
+      "id": "03",
+      "title": "The Glove",
+      "duration_s": 6,
+      "act": 1,
+      "beat_id": "setup_ritual",
+      "value_charge": {
+        "from": "body",
+        "to": "hand_as_agent"
+      },
+      "job_facing_why": "Product touch without packshot cliché — ritual craft.",
+      "inspiration_ids": [
+        "pfrunder_wwd",
+        "personal_les_beiges_stop_motion",
+        "newton_foundation_sleepless"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md"
+      ],
+      "wardrobe_state": "C_hands_only",
+      "source_frame": "assets/shots/001/shot-03.jpg",
+      "status": "locked_frame",
+      "camera": "Medium close-up, hands only. Shallow depth.",
+      "action": "Fingerless black glove lifts bottle from tray. Facets refract chandelier. No face visible.",
+      "light": "Specular highlights on crystal. Rest falls to black.",
+      "sound": "Glass on silver. Breath.",
+      "continuity_locks": [
+        "lace_gloves",
+        "bottle_from_tray",
+        "pearl_edge_on_tray",
+        "no_face"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Medium close-up of hands only: fingerless black lace gloves lifting an unlabeled faceted crystal perfume bottle from a polished silver tray. No face in frame. Specular highlights on crystal facets, rest of frame falls to black, shallow depth of field. Ritual precision, beauty material as character. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Gloved hand lifts bottle a few centimeters; glass clink."
+    },
+    {
+      "id": "04",
+      "title": "Clinical Ritual",
+      "duration_s": 9,
+      "act": 2,
+      "beat_id": "catalyst",
+      "value_charge": {
+        "from": "desire",
+        "to": "procedure"
+      },
+      "job_facing_why": "Parfums Beauté as craft and precision — clinic/boudoir collapse.",
+      "inspiration_ids": [
+        "newton_foundation_sleepless",
+        "lagerfeld_no5",
+        "personal_les_beiges_stop_motion"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md"
+      ],
+      "wardrobe_state": "B_jacket_open",
+      "source_frame": "assets/shots/001/shot-04.jpg",
+      "status": "regen_v1_2026-07-17",
+      "camera": "Low angle, bathroom vanity. Mirror doubles subject.",
+      "action": "Woman applies fragrance to inner wrist. Medical tray: syringe, latex gloves, steel instruments arranged like still life. Greyhound reflected in mirror.",
+      "light": "Cold fluorescent edge + warm tungsten cheek. Contrast of clinic and boudoir.",
+      "sound": "Spray atomizer — one precise hiss. Distant dog exhale.",
+      "continuity_locks": [
+        "chignon",
+        "pearls",
+        "jacket_open_collarbone",
+        "lace_gloves",
+        "bottle",
+        "greyhound_only",
+        "medical_tray"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Low 3/4 at vanity: tweed jacket open at collarbone, fingerless lace gloves, applying unlabeled crystal perfume to inner wrist. Medical still life on steel tray — glass syringe, white latex gloves, instruments as luxury objects not horror. One greyhound reflected in mirror (no Dobermans). Cold fluorescent edge light + warm tungsten on cheek. Newton Sleepless Nights clinic-as-boudoir grammar. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "One spray hiss; wrist turns; greyhound still in mirror."
+    },
+    {
+      "id": "05",
+      "title": "The Negotiation",
+      "duration_s": 7,
+      "act": 2,
+      "beat_id": "debate",
+      "value_charge": {
+        "from": "control_contested",
+        "to": "stillness_wins"
+      },
+      "job_facing_why": "Character over product — woman holds power without speaking.",
+      "inspiration_ids": [
+        "newton_vam_sie_kommen",
+        "personal_n5_leau_lily_rose",
+        "luhrmann_vf"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md",
+        "research/lily-rose-n5-leau-2016.md"
+      ],
+      "wardrobe_state": "A_full_tailleur",
+      "source_frame": "assets/shots/001/shot-05.jpg",
+      "status": "regen_v1_2026-07-17",
+      "camera": "Two-shot profile. Woman seated, dog standing, eye-level.",
+      "action": "Statuesque stillness. Woman removes sunglasses slowly. Dog does not move. Tension = who blinks first.",
+      "light": "Window slash across faces. Rembrandt split. Subtle luminous edge on cheekbone.",
+      "sound": "Piano motif returns — three notes, unresolved.",
+      "continuity_locks": [
+        "chignon",
+        "pearls",
+        "tweed_tailleur",
+        "sunglasses_removing",
+        "doberman",
+        "profile_jaw"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Profile two-shot: seated MADAME_X in tweed tailleur slowly removing black sunglasses opposite a standing black Doberman at eye level. Statuesque stillness, power contest without motion. Window slash Rembrandt light; subtle gold-magenta luminous rim on cheekbone — photo-shoot appetite held in reserve. Newton monumental woman grammar. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Sunglasses lower one centimeter; neither blinks."
+    },
+    {
+      "id": "06",
+      "title": "Tweed & Skin",
+      "duration_s": 6,
+      "act": 2,
+      "beat_id": "break_into_material",
+      "value_charge": {
+        "from": "armor",
+        "to": "flesh"
+      },
+      "job_facing_why": "Material storytelling for print key visual / 360 texture.",
+      "inspiration_ids": [
+        "lagerfeld_no5",
+        "newton_vam_sie_kommen",
+        "personal_les_beiges_stop_motion"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md"
+      ],
+      "wardrobe_state": "D_macro_torso",
+      "source_frame": "assets/shots/001/shot-06.jpg",
+      "status": "locked_frame",
+      "camera": "Macro textile. Rack focus to pearl at collarbone.",
+      "action": "Tweed weave fills frame. Focus pulls to pearl necklace resting on skin. Lagerfeld material obsession.",
+      "light": "Raking light across fabric grain.",
+      "sound": "Fabric whisper. Heartbeat sub-bass (felt, not heard).",
+      "continuity_locks": [
+        "tweed_weave",
+        "pearls_on_curves",
+        "decollete",
+        "no_face_required"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Macro of B&W houndstooth tweed jacket filling frame, raking light across fabric grain, rack focus to triple pearl necklace resting on full décolleté — cloth becomes flesh, clothing does not tame power. No face required. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Slow rack focus from weave to pearl on skin."
+    },
+    {
+      "id": "07",
+      "title": "Hall of Mirrors",
+      "duration_s": 8,
+      "act": 2,
+      "beat_id": "midpoint",
+      "value_charge": {
+        "from": "singular_self",
+        "to": "multiplied_surveillance"
+      },
+      "job_facing_why": "Multi-format identity — social 360 / infinite self-image.",
+      "inspiration_ids": [
+        "luhrmann_vf",
+        "personal_n5_leau_lily_rose",
+        "harlech_another",
+        "newton_dw_power"
+      ],
+      "inspiration_files": [
+        "research/newton-period.md",
+        "research/lily-rose-n5-leau-2016.md"
+      ],
+      "wardrobe_state": "A_full_tailleur",
+      "source_frame": "assets/shots/001/shot-07.jpg",
+      "status": "regen_v1_2026-07-17",
+      "camera": "Steadicam orbit 270° around woman center frame.",
+      "action": "Infinite reflections. Bottle held at sternum height like a weapon or prayer. Dogs multiply in mirrors.",
+      "light": "Chandelier reflections create starburst on glass. Subtle luminous edge on bottle.",
+      "sound": "Orbit whoosh subtle. Music drops out entirely.",
+      "continuity_locks": [
+        "chignon",
+        "pearls",
+        "tweed_tailleur",
+        "bottle_at_sternum",
+        "dobermans",
+        "mirrors"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Hall of gilt mirrors, MADAME_X center frame in tweed tailleur holding unlabeled crystal bottle at sternum, infinite reflections multiplying her and two Dobermans. Chandelier starbursts on glass; subtle gold-magenta luminous edge on bottle facets — multi-self identity, photo-shoot appetite without smile. Woman not product; surveillance mansion. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Slow orbit fragment; reflections shift; silence."
+    },
+    {
+      "id": "08",
+      "title": "Unlabeled Icon",
+      "duration_s": 10,
+      "act": 3,
+      "beat_id": "icon_all_is_lost_named_by_light",
+      "value_charge": {
+        "from": "woman_subject",
+        "to": "bottle_as_light_object"
+      },
+      "job_facing_why": "Helleu: scent before name — identity is shape and light.",
+      "inspiration_ids": [
+        "helleu_wwd",
+        "personal_n5_leau_lily_rose",
+        "newton_foundation_sleepless"
+      ],
+      "inspiration_files": [
+        "research/helleu-simplicity.md",
+        "research/lily-rose-n5-leau-2016.md"
+      ],
+      "wardrobe_state": "E_icon_fragment",
+      "source_frame": "assets/shots/001/shot-08.jpg",
+      "status": "regen_v1_2026-07-17",
+      "camera": "Extreme macro on bottle facets. Woman's lips / pearl at frame edge.",
+      "action": "Light travels across crystal. No typography anywhere. Identity = shape alone. Doberman eye soft bokeh background.",
+      "light": "Single moving slit of light (manual flag pass). Gold-magenta rim on facets.",
+      "sound": "Crystal resonance tone — almost subliminal.",
+      "continuity_locks": [
+        "unlabeled_bottle_ecu",
+        "lip_edge",
+        "pearl_earring_partial",
+        "doberman_bokeh",
+        "no_typography"
+      ],
+      "prompt_image": "MADAME_X: tall 178cm woman with Helmut Newton curves — full bust, narrow waist, strong hips, long legs. Angular jaw, black lacquered chignon, triple pearl necklace. Luminous 2016 Parfums Beauté makeup: fresh porcelain skin, soft eye definition, strong natural brows, defined lips — same makeup every shot. Structured black-and-white tweed tailleur (2016–2018 house codes). Pale skin, B&W high-contrast fashion photography. Same woman throughout. Extreme close-up unlabeled faceted crystal perfume bottle filling frame, woman's dark lipstick lip edge and single pearl earring at frame edge only. Single moving slit of light across crystal; subtle gold-magenta luminous rim on facets — identity is shape and light alone. Soft bokeh Doberman eye in background. No typography, no logo. Helleu simplicity + luminous edge appetite. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Light slit travels across facets; almost still."
+    },
+    {
+      "id": "09",
+      "title": "Departure",
+      "duration_s": 8,
+      "act": 3,
+      "beat_id": "finale_return",
+      "value_charge": {
+        "from": "presence",
+        "to": "imprint_without_body"
+      },
+      "job_facing_why": "Afterimage of scent — memory without body; film craft of absence.",
+      "inspiration_ids": [
+        "helleu_figaro_2004",
+        "luhrmann_vf",
+        "harlech_another"
+      ],
+      "inspiration_files": [
+        "research/helleu-simplicity.md"
+      ],
+      "wardrobe_state": "F_absent",
+      "source_frame": "assets/shots/001/shot-09.jpg",
+      "status": "locked_frame",
+      "camera": "Return to Shot 01 composition. Static wide.",
+      "action": "Corridor now empty. Tray remains. Bottle gone. Dogs sit facing camera. Imprint of presence without body.",
+      "light": "Identical to 01 — audience realizes nothing moved but everything changed.",
+      "sound": "Heels receding off-screen. Fade.",
+      "continuity_locks": [
+        "same_corridor_as_01",
+        "empty_tray",
+        "bottle_gone",
+        "dobermans_facing_camera",
+        "no_woman"
+      ],
+      "prompt_image": "Same Paris hôtel particulier corridor as opening shot: black-and-white checkerboard marble, identical wide static composition and hard side light camera-right. Corridor empty of the woman. Silver tray remains on console, bottle gone. Two black Dobermans sit facing camera as witnesses. Imprint of presence without body. Pure B&W high-contrast fashion still. Helleu absence. Spec portfolio fragrance film. No trademark, no logo, no real-person likeness. Unlabeled faceted crystal bottle only. European luxury fashion photography, 16:9.",
+      "prompt_i2v": "Dogs breathe once; heels recede off-screen."
+    },
+    {
+      "id": "10",
+      "title": "Black · Scent",
+      "duration_s": 8,
+      "act": 3,
+      "beat_id": "final_image",
+      "value_charge": {
+        "from": "world",
+        "to": "void_holds_scent"
+      },
+      "job_facing_why": "Radical simplicity as luxury CR craft — film ends before logo.",
+      "inspiration_ids": [
+        "helleu_wwd",
+        "luhrmann_vf"
+      ],
+      "inspiration_files": [
+        "research/helleu-simplicity.md"
+      ],
+      "wardrobe_state": "F_absent",
+      "source_frame": "assets/shots/001/shot-10.jpg",
+      "status": "locked_frame",
+      "camera": "Cut to pure black. Hold.",
+      "action": "No super. No URL. No name. Optional: one white serif letter appears and dissolves — or nothing at all.",
+      "light": "None. Absence as luxury.",
+      "sound": "Final piano chord. Room tone into silence.",
+      "continuity_locks": [
+        "pure_black",
+        "no_logo",
+        "no_typography"
+      ],
+      "prompt_image": "Pure black 16:9 frame. No text, no logo, no product, no person. Absolute void. Optional: nothing. Spec portfolio fragrance film ending. Absence as luxury. No trademark, no real-person likeness.",
+      "prompt_i2v": "Hold black. Silence."
+    }
+  ],
+  "makeup_da_lock": "research/da-2016-chanel-parfums-beaute.md",
+  "costume_lock": "research/costume-lock-2016-2018.md",
+  "da_institution": "Thomas du Pré de Saint Maur — Global Creative Resources Fragrance & Beauty",
+  "regen_log": [
+    {
+      "date": "2026-07-17",
+      "shots": [
+        "01",
+        "02",
+        "04",
+        "05",
+        "07",
+        "08"
+      ],
+      "method": "image_edit from 00-character-reference.jpg",
+      "notes": "Face lock partial on 01/04; stronger on 05/07. Shot-01 has 3 Dobermans not 2. 02 angle inverted (ascending stairs). Backups in assets/shots/001/_backup_pre_regen_2026-07-17/"
+    }
+  ]
+}

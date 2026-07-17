@@ -1,0 +1,104 @@
+{
+  "document": "concepts-all-five",
+  "last_updated": "2026-07-17",
+  "face_lock": "assets/refs/aesthetic_leau_2016_APPROVED.jpg",
+  "character": "Lily-Rose Depp likeness from approved L'Eau 2016 still — private interview research only",
+  "shared_rules": {
+    "face": "Identical face to REF_LILYROSE only",
+    "product": "Unlabeled faceted crystal bottle — no N°5 type, no CHANEL wordmark",
+    "bans": ["Dobermans", "medical syringe as hero", "checkerboard Amazon entrance", "official campaign claim"],
+    "legal": "Spec / concept personnel / private prep — not for public commercial publish without rights"
+  },
+  "concepts": {
+    "A": {
+      "title": "Tu me connais / Tu ne me connais pas",
+      "logline": "She is filmed as if the image already owns her — then the film admits the camera does not know her. Scent is the only true intimate.",
+      "newton": "Complicit gaze, partial frames, indifference",
+      "lilyrose": "Campaign paradox as plot",
+      "shots": [
+        {"id": "01", "title": "Almost known", "prompt": "Lily-Rose Depp exact face from reference: luminous dewy skin soft wing liner natural deep lips. 16:9 fashion film still. Soft grey seamless almost empty. She sits half in shadow half in soft key light looking just past camera. Black simple slip or fine black lace strap. Photo-shoot appetite. High fashion B&W with soft luminous skin. No dogs no mansion cliché. Unlabeled crystal bottle out of focus far background optional. Spec portfolio."},
+        {"id": "02", "title": "Double truth", "prompt": "Same Lily-Rose Depp face exact. 16:9. Her face reflected twice in glass or split by refraction through clear crystal — know me / don't. Soft luminous makeup. Intimate close-up. B&W fashion. No logo text on bottle. Spec portfolio."},
+        {"id": "03", "title": "Hands near glass", "prompt": "Same woman hands and partial face edge. Fingers near unlabeled faceted crystal perfume bottle. Soft luminous light on skin and crystal. 16:9 B&W fashion still. No brand type. Spec portfolio."},
+        {"id": "04", "title": "Private spray", "prompt": "Same Lily-Rose Depp face exact. 16:9. She sprays unlabeled crystal atomizer on wrist in quiet room soft window light. Intimate not clinical. Black lace or soft black top. Luminous skin. B&W fashion film. Spec portfolio."},
+        {"id": "05", "title": "Gaze hold", "prompt": "Same Lily-Rose Depp face exact. 16:9 tight portrait direct to camera long hold energy. Luminous 2016 makeup. She knows she is seen. Soft hard hybrid light. B&W fashion. Spec portfolio."},
+        {"id": "06", "title": "Breath fabric", "prompt": "Same woman. 16:9 macro black lace fabric and collarbone breath. Luminous skin edge. Soft light. B&W fashion. Spec portfolio."},
+        {"id": "07", "title": "Night glass", "prompt": "Same Lily-Rose Depp face exact at night window city soft bokeh. Architecture as witness not palace costume. She half-turned. Luminous cheek. 16:9 B&W cinematic fashion. Spec portfolio."},
+        {"id": "08", "title": "Bottle light", "prompt": "16:9 ECU unlabeled faceted crystal bottle light slit on facets diamond stopper. Soft bokeh of her eye or pearl only at edge same woman. No text no logo. B&W. Spec portfolio."},
+        {"id": "09", "title": "Afterimage", "prompt": "16:9 empty chair or empty window where she was. Soft residual light. No person. B&W fashion still. Spec portfolio."},
+        {"id": "10", "title": "Black", "prompt": "Pure black 16:9 frame. No text no logo. Absolute void."}
+      ]
+    },
+    "B": {
+      "title": "Le regard est le produit",
+      "logline": "The film sells complicity of looking. She knows she is watched; perfume remains when the gaze fails to own her.",
+      "newton": "Viewer guilty; space accomplice",
+      "lilyrose": "Returns the look",
+      "shots": [
+        {"id": "01", "title": "Spyglass hotel", "prompt": "Lily-Rose Depp exact face from reference. 16:9 shot through hotel door spyhole circular vignette. She walks past indifferent. Luminous makeup. B&W. Voyeur Newton without mansion cliché. Spec portfolio."},
+        {"id": "02", "title": "Elevator chrome", "prompt": "Same Lily-Rose Depp face exact reflected in elevator chrome doors. Fragmented self. Soft luminous skin. 16:9 B&W fashion. Spec portfolio."},
+        {"id": "03", "title": "Phone black glass", "prompt": "Same woman. 16:9 her face reflected in black phone glass she is not using as product — witness surface only. Luminous. B&W. Spec portfolio."},
+        {"id": "04", "title": "She looks back", "prompt": "Same Lily-Rose Depp face exact. 16:9 over-shoulder then she turns eyes to lens. Power in return gaze. Luminous makeup. B&W fashion film. Spec portfolio."},
+        {"id": "05", "title": "Window crew light", "prompt": "Same woman at night window. Reflection shows soft film light source — camera complicit. 16:9 B&W cinematic. Spec portfolio."},
+        {"id": "06", "title": "Wrist scent", "prompt": "Same woman. Soft spray unlabeled bottle on wrist. No clinic. Intimate. 16:9 B&W. Spec portfolio."},
+        {"id": "07", "title": "Distance corridor plain", "prompt": "Same Lily-Rose Depp face exact far down plain modern corridor hard light. Documented not performing. 16:9 B&W. No dogs no checkerboard. Spec portfolio."},
+        {"id": "08", "title": "Crystal only", "prompt": "16:9 unlabeled crystal bottle ECU light. Her eye bokeh edge. No logo text. Spec portfolio."},
+        {"id": "09", "title": "Lens flare empty", "prompt": "16:9 empty frame soft light where gaze was. B&W. Spec portfolio."},
+        {"id": "10", "title": "Black", "prompt": "Pure black 16:9. No text."}
+      ]
+    },
+    "C": {
+      "title": "Contrôle / lâcher",
+      "logline": "From campaign-perfect control to private release; scent is when the image system loses her.",
+      "newton": "Power then release without fetish props",
+      "lilyrose": "Public face vs private self",
+      "shots": [
+        {"id": "01", "title": "Posed perfect", "prompt": "Lily-Rose Depp exact face. 16:9 stiff fashion pose seamless grey hard beauty light. Campaign perfect control. Luminous makeup. B&W. Spec portfolio."},
+        {"id": "02", "title": "Still too perfect", "prompt": "Same face. Micro movement almost frozen. Same light. 16:9 B&W. Spec portfolio."},
+        {"id": "03", "title": "Crack breath", "prompt": "Same Lily-Rose Depp face exact softens eyes inhale. Light slightly warmer luminous. 16:9 B&W fashion. Spec portfolio."},
+        {"id": "04", "title": "Hands free", "prompt": "Same woman hands unclench near unlabeled bottle. 16:9 B&W. Spec portfolio."},
+        {"id": "05", "title": "Spray release", "prompt": "Same face. Spray on skin eyes half closed private. Soft luminous. 16:9 B&W. Spec portfolio."},
+        {"id": "06", "title": "Hair undone edge", "prompt": "Same woman one strand loose still elegant. Softer light. 16:9 B&W. Spec portfolio."},
+        {"id": "07", "title": "Laugh almost", "prompt": "Same Lily-Rose Depp face exact almost smile not commercial grin. Intimate. 16:9 B&W. Spec portfolio."},
+        {"id": "08", "title": "Bottle on table", "prompt": "Unlabeled crystal bottle on plain table residual light. No person. 16:9 B&W. Spec portfolio."},
+        {"id": "09", "title": "Empty room warm", "prompt": "Empty room soft residual glow. 16:9 B&W. Spec portfolio."},
+        {"id": "10", "title": "Black", "prompt": "Pure black 16:9."}
+      ]
+    },
+    "D": {
+      "title": "La femme documentée",
+      "logline": "Not a fragrance performance — a cold European documentation. Bottle is personal evidence.",
+      "newton": "Documented not performing; night; hard light",
+      "lilyrose": "Specific contemporary face",
+      "shots": [
+        {"id": "01", "title": "Night street edge", "prompt": "Lily-Rose Depp exact face. 16:9 night street Paris soft rain light hard side light. Documented not posing smile. Black coat simple. B&W cinematic. Spec portfolio."},
+        {"id": "02", "title": "Hotel corridor plain", "prompt": "Same face walking plain hotel corridor hard fluorescent. Indifferent. 16:9 B&W. No dogs no marble manifesto. Spec portfolio."},
+        {"id": "03", "title": "Room key light", "prompt": "Same woman hotel room single lamp. Quiet. 16:9 B&W. Spec portfolio."},
+        {"id": "04", "title": "Bottle night table", "prompt": "Unlabeled crystal bottle on night table like personal object. 16:9 B&W. Spec portfolio."},
+        {"id": "05", "title": "She documents back", "prompt": "Same Lily-Rose Depp face exact looking into dark lens of camera on table — reverse voyeur. 16:9 B&W. Spec portfolio."},
+        {"id": "06", "title": "Wrist ritual quiet", "prompt": "Same woman quiet spray. No clinic. 16:9 B&W. Spec portfolio."},
+        {"id": "07", "title": "Window rain", "prompt": "Same face at rainy window. 16:9 B&W cinematic. Spec portfolio."},
+        {"id": "08", "title": "Evidence glass", "prompt": "ECU bottle light unlabeled. 16:9 B&W. Spec portfolio."},
+        {"id": "09", "title": "Corridor empty", "prompt": "Empty corridor residual. 16:9 B&W. Spec portfolio."},
+        {"id": "10", "title": "Black", "prompt": "Pure black 16:9."}
+      ]
+    },
+    "E": {
+      "title": "Double exposition",
+      "logline": "Print logic (face × bottle refraction) becomes film logic (fragments). Same woman two media one paradox.",
+      "newton": "Ambivalence in one frame",
+      "lilyrose": "Sadli still + Renck fragment energy",
+      "shots": [
+        {"id": "01", "title": "Still poster energy", "prompt": "Lily-Rose Depp exact face with large unlabeled crystal bottle in frame like campaign still but no brand type. Luminous makeup soft grey ground. 16:9 B&W fashion. Spec portfolio."},
+        {"id": "02", "title": "Refraction split", "prompt": "Same face doubled through crystal glass. 16:9 B&W. Spec portfolio."},
+        {"id": "03", "title": "Fragment eye", "prompt": "Same woman extreme eye and light. 16:9 B&W. Spec portfolio."},
+        {"id": "04", "title": "Fragment hand bottle", "prompt": "Hand on unlabeled bottle. 16:9 B&W. Spec portfolio."},
+        {"id": "05", "title": "Film cut walk", "prompt": "Same Lily-Rose Depp face exact walking soft motion freeze frame energy. 16:9 B&W. Spec portfolio."},
+        {"id": "06", "title": "Film cut spray", "prompt": "Spray moment still. Same face. 16:9 B&W. Spec portfolio."},
+        {"id": "07", "title": "Film cut look", "prompt": "Direct look still. Same face. 16:9 B&W. Spec portfolio."},
+        {"id": "08", "title": "Bottle optical", "prompt": "Bottle as optical device light. Unlabeled. 16:9 B&W. Spec portfolio."},
+        {"id": "09", "title": "Afterimage face", "prompt": "Faint residual face light empty. 16:9 B&W. Spec portfolio."},
+        {"id": "10", "title": "Black", "prompt": "Pure black 16:9."}
+      ]
+    }
+  }
+}

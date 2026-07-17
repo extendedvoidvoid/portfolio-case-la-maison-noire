@@ -1,5 +1,7 @@
 .DS_Store
-*.swp
-*~
-.idea/
-.vscode/
+_staging*/
+assets/shots/001/_backup*/
+assets/shots/001/_archive*/
+assets/shots/001/_backup_shot-*.jpg
+assets/video/tmp_*/
+assets/refs/pending_approval/
