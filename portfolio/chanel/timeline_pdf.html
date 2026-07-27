@@ -159,11 +159,27 @@
     }
 
     .cover-thumb {
+      position: relative;
       aspect-ratio: 16/9;
       background: var(--surface);
       border: 1px solid var(--hairline);
       border-radius: 4px;
       overflow: hidden;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+
+    .cover-thumb:hover {
+      transform: scale(1.06);
+      border-color: var(--accent);
+      z-index: 10;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+
+    .cover-thumb a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      text-decoration: none;
     }
 
     .cover-thumb img {
@@ -171,6 +187,30 @@
       height: 100%;
       object-fit: cover;
       display: block;
+    }
+
+    .cover-thumb .tooltip {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(27, 54, 93, 0.92);
+      color: #ffffff;
+      font-family: var(--mono);
+      font-size: 9px;
+      letter-spacing: 0.05em;
+      padding: 4px 6px;
+      text-align: center;
+      opacity: 0;
+      transition: opacity 0.2s;
+      pointer-events: none;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .cover-thumb:hover .tooltip {
+      opacity: 1;
     }
 
     .footer {
@@ -275,20 +315,80 @@
   </div>
 
   <div class="cover-filmstrip">
-    <div class="cover-filmstrip-head">Canal+ Déjà Vu Official Vignettes &amp; Covers (100+ Episodes · 6 Seasons)</div>
+    <div class="cover-filmstrip-head">Canal+ Déjà Vu Official Vignettes &amp; Covers (Click to View Video)</div>
     <div class="cover-row">
-      <div class="cover-thumb"><img src="assets/vignettes/oppenheimer.jpg" alt="Oppenheimer" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/barbie.jpg" alt="Barbie" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/john_wick_4.jpg" alt="John Wick 4" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/anatomie_chute.jpg" alt="Anatomie d'une Chute" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/napoleon.jpg" alt="Napoleon" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/dead_reckoning.jpg" alt="Dead Reckoning" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/fabelmans.jpg" alt="The Fabelmans" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/creator.jpg" alt="The Creator" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/gran_turismo.jpg" alt="Gran Turismo" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/creed_3.jpg" alt="Creed III" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/eiffel.png" alt="Eiffel" /></div>
-      <div class="cover-thumb"><img src="assets/vignettes/dune.png" alt="Dune" /></div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=MMRjyePjAC8" target="_blank" rel="noopener">
+          <img src="assets/vignettes/oppenheimer.jpg" alt="Oppenheimer" />
+          <div class="tooltip">▶ Oppenheimer</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/barbie.jpg" alt="Barbie" />
+          <div class="tooltip">▶ Barbie</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=7mxsPRaSjH0" target="_blank" rel="noopener">
+          <img src="assets/vignettes/john_wick_4.jpg" alt="John Wick 4" />
+          <div class="tooltip">▶ John Wick 4</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/anatomie_chute.jpg" alt="Anatomie d'une Chute" />
+          <div class="tooltip">▶ Anatomie d'une Chute</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/napoleon.jpg" alt="Napoleon" />
+          <div class="tooltip">▶ Napoléon</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/dead_reckoning.jpg" alt="Dead Reckoning" />
+          <div class="tooltip">▶ Dead Reckoning</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/fabelmans.jpg" alt="The Fabelmans" />
+          <div class="tooltip">▶ The Fabelmans</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/creator.jpg" alt="The Creator" />
+          <div class="tooltip">▶ The Creator</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/gran_turismo.jpg" alt="Gran Turismo" />
+          <div class="tooltip">▶ Gran Turismo</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
+          <img src="assets/vignettes/creed_3.jpg" alt="Creed III" />
+          <div class="tooltip">▶ Creed III</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=MMRjyePjAC8" target="_blank" rel="noopener">
+          <img src="assets/vignettes/eiffel.png" alt="Eiffel" />
+          <div class="tooltip">▶ Eiffel</div>
+        </a>
+      </div>
+      <div class="cover-thumb">
+        <a href="https://www.youtube.com/watch?v=WSTqrA1ChVk" target="_blank" rel="noopener">
+          <img src="assets/vignettes/dune.png" alt="Dune" />
+          <div class="tooltip">▶ Cannes 2021</div>
+        </a>
+      </div>
     </div>
   </div>
 
