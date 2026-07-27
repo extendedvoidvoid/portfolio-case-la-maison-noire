@@ -84,6 +84,19 @@
 
 ---
 
+## 07 · Footer Lifespan Kinetic GIF ("Whole Life CV: Childhood to Old Age")
+
+### Concept & Visual Arc
+Placed at the bottom of the website directly above `<footer>`:
+- **Fast Stroboscopic Time-Lapse GIF:** A 3-second rapid kinetic loop telling the complete human story of César Cabrera:
+  1. **Origins & Childhood:** Personal archive photographs & childhood milestones.
+  2. **Symbols & Institutions:** Sorbonne seal, Gobelins logo, Google Maps route pins (Paris · Milano · Madrid · Rouen), Canal+ emblem, Apple Music motion badges.
+  3. **Creative Corpus:** Snapshots of film reels, manuscripts (Flaubert, Kafka), and festival laurels.
+  4. **Speculative Future:** An AI age-progression transition closing with César Cabrera as a wise, venerable old director at the end.
+- **Tone:** Fast, emotional, philosophical, epic, and deeply human.
+
+---
+
 ## PDF Export Specification
 - **Format:** Landscape 16:9 (1920×1080) or A3 Landscape.
 - **Typography:** Instrument Serif (Headings) + Inter Tight (Body) + JetBrains Mono (Dates/Metadata).
