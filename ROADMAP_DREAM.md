@@ -46,7 +46,7 @@
 - **The Artist Academy & La Sorbonne:** Narrative producer & masterclasses (Flaubert, Kafka, Stefan Zweig).
 - **Cinéma Omnia République (Rouen):** Host of *Vidéo Club* cycle (original video essays & film mediation).
 - **Modul9 & Recherche Expérimentale (9:16 VJing):**
-  - [modul9 — Modular 9:16 VJ & Experiment Toolkit (GitHub)](https://github.com/extendedvoidvoid/modul9)
+  - modul9 — Modular 9:16 VJ & Experiment Toolkit (Private Framework)
   - [Timeline PDF — Exportation Chronologique 2004–2026 (Printable 16:9 PDF)](https://extendedvoidvoid.github.io/portfolio-case-la-maison-noire/timeline_pdf.html)
 - **Pioneering AI Systems:** Created *Animated Artwork Explorer* (Apple Music 3:4 motion cover research) and zero-cost high-speed video workflow engines.
 

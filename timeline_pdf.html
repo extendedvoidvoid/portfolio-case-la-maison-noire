@@ -137,6 +137,42 @@
       color: var(--accent);
     }
 
+    .cover-filmstrip {
+      margin-top: 14px;
+      padding-top: 10px;
+      border-top: 1px solid var(--hairline);
+    }
+
+    .cover-filmstrip-head {
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+
+    .cover-row {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 10px;
+    }
+
+    .cover-thumb {
+      aspect-ratio: 16/9;
+      background: var(--surface);
+      border: 1px solid var(--hairline);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    .cover-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
     .footer {
       display: flex;
       justify-content: space-between;
@@ -235,6 +271,18 @@
         <li>Spec fragrance film "Absence" &amp; 360° luxury campaigns.</li>
         <li>Strategic Advisor for Luxury Maisons (Chanel, LVMH, Kering) &amp; TV networks.</li>
       </ul>
+    </div>
+  </div>
+
+  <div class="cover-filmstrip">
+    <div class="cover-filmstrip-head">Canal+ &amp; Auteur Cover Visuals (6 Seasons · Cannes · Press)</div>
+    <div class="cover-row">
+      <div class="cover-thumb"><img src="https://img.youtube.com/vi/MMRjyePjAC8/hqdefault.jpg" alt="Eiffel" /></div>
+      <div class="cover-thumb"><img src="https://img.youtube.com/vi/WSTqrA1ChVk/hqdefault.jpg" alt="Les Robes Cannes 2021" /></div>
+      <div class="cover-thumb"><img src="https://img.youtube.com/vi/8OHZ8XLrrIY/hqdefault.jpg" alt="Joker" /></div>
+      <div class="cover-thumb"><img src="https://img.youtube.com/vi/LplPKqI5M2s/hqdefault.jpg" alt="Tenet" /></div>
+      <div class="cover-thumb"><img src="https://img.youtube.com/vi/09ZzuaV8-2I/hqdefault.jpg" alt="Drive" /></div>
+      <div class="cover-thumb"><img src="storyboard/01-coiffeuse.jpg" alt="Absence Spec Film" /></div>
     </div>
   </div>
 
