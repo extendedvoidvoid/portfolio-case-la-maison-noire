@@ -60,6 +60,28 @@
 
 ---
 
+## 06 · Modular Remotion Title Sequence Directives & Timestamps (Tom Kan Homage)
+
+### Chunk 05 Directives (25.0s – 30.0s / Frames 0601–0720)
+- **Next Layer Additions:** Integrate official brand & festival logos (Canal+, Palme d'Or Cannes, Berlinale Golden Bear, Venice Golden Lion, Chanel, Deauville) over stroboscopic background cards.
+- **Timestamps:**
+  - `25.00s`: Cannes Palm Logo (`FESTIVAL DE CANNES`)
+  - `26.25s`: Berlinale Bear Logo (`BERLINALE 2022`)
+  - `27.50s`: Venice Lion Logo (`MOSTRA DE VENISE`)
+  - `28.75s`: Chanel & Deauville Logos (`DEAUVILLE 2024`)
+
+### Chunk 06 Directives (30.0s – 35.0s / Frames 0721–0840)
+- **Simultaneous Flag Overlay Layer:**
+  - `33.17s` (`CÉRÉMONIE DES CÉSAR`): Overlay French Flag 🇫🇷 / Tricolor Strobe.
+  - `33.75s` (`ROBERT REDFORD`): Overlay US Flag 🇺🇸 / Stars & Stripes Strobe.
+
+### Chunk 07 Directives (35.0s – 40.0s / Frames 0841–0960)
+- **Refactoring & Editorial Precision:** Eliminate text repetitions and expand rich press-inspired editorial copy:
+  - `DÉJÀ VU` $\rightarrow$ *"Movie Parallels · The History of Cinema & Ancestry of Mise-en-scène"*.
+  - Inspired by global press commentary (**IndieWire**: *"A dizzying study in film lineage and the ancestry of mise-en-scène"*; **Vogue**: *"An intricate mapping of cinema's visual rhymes and spatial memory"*).
+
+---
+
 ## PDF Export Specification
 - **Format:** Landscape 16:9 (1920×1080) or A3 Landscape.
 - **Typography:** Instrument Serif (Headings) + Inter Tight (Body) + JetBrains Mono (Dates/Metadata).
