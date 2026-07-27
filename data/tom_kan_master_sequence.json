@@ -1,0 +1,5006 @@
+[
+  {
+    "cut_id": 1,
+    "frame_file": "cut_001.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.0,
+      23.1,
+      1.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 2,
+    "frame_file": "cut_002.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      24.2,
+      22.7,
+      22.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 3,
+    "frame_file": "cut_003.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      39.3,
+      37.1,
+      36.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 4,
+    "frame_file": "cut_004.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      22.8,
+      1.4,
+      1.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 5,
+    "frame_file": "cut_005.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      43.5,
+      26.1,
+      2.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 6,
+    "frame_file": "cut_006.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.4,
+      34.2,
+      33.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 7,
+    "frame_file": "cut_007.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#3B3736",
+    "rgb_mean": [
+      59.2,
+      55.9,
+      54.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 8,
+    "frame_file": "cut_008.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      32.3,
+      30.3,
+      29.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 9,
+    "frame_file": "cut_009.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#343130",
+    "rgb_mean": [
+      52.3,
+      49.4,
+      48.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 10,
+    "frame_file": "cut_010.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.6,
+      29.9,
+      28.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 11,
+    "frame_file": "cut_011.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      48.2,
+      46.3,
+      44.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 12,
+    "frame_file": "cut_012.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      29.1,
+      27.6,
+      26.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 13,
+    "frame_file": "cut_013.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      47.3,
+      44.7,
+      43.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 14,
+    "frame_file": "cut_014.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      8.9,
+      0.5,
+      0.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 15,
+    "frame_file": "cut_015.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      38.5,
+      36.2,
+      35.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 16,
+    "frame_file": "cut_016.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.4,
+      25.7,
+      25.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 17,
+    "frame_file": "cut_017.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      44.7,
+      42.2,
+      40.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 18,
+    "frame_file": "cut_018.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.0,
+      16.9,
+      16.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 19,
+    "frame_file": "cut_019.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      17.4,
+      1.0,
+      1.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 20,
+    "frame_file": "cut_020.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.5,
+      17.6,
+      1.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 21,
+    "frame_file": "cut_021.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.5,
+      17.2,
+      43.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 22,
+    "frame_file": "cut_022.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#382835",
+    "rgb_mean": [
+      56.1,
+      40.3,
+      53.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 23,
+    "frame_file": "cut_023.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      14.6,
+      9.0,
+      8.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 24,
+    "frame_file": "cut_024.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      11.4,
+      8.3,
+      8.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 25,
+    "frame_file": "cut_025.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#331110",
+    "rgb_mean": [
+      51.4,
+      17.0,
+      16.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 26,
+    "frame_file": "cut_026.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      14.7,
+      9.3,
+      9.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 27,
+    "frame_file": "cut_027.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#3F1710",
+    "rgb_mean": [
+      63.9,
+      23.8,
+      16.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 28,
+    "frame_file": "cut_028.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      13.6,
+      11.4,
+      11.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 29,
+    "frame_file": "cut_029.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      12.1,
+      6.0,
+      5.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 30,
+    "frame_file": "cut_030.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      49.9,
+      41.2,
+      40.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 31,
+    "frame_file": "cut_031.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#4E4240",
+    "rgb_mean": [
+      78.2,
+      66.6,
+      64.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 32,
+    "frame_file": "cut_032.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.6,
+      13.6,
+      13.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 33,
+    "frame_file": "cut_033.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      12.7,
+      9.0,
+      8.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 34,
+    "frame_file": "cut_034.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.4,
+      12.3,
+      12.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 35,
+    "frame_file": "cut_035.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.1,
+      9.9,
+      9.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 36,
+    "frame_file": "cut_036.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      21.7,
+      14.2,
+      14.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 37,
+    "frame_file": "cut_037.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.8,
+      32.8,
+      25.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 38,
+    "frame_file": "cut_038.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.7,
+      13.4,
+      13.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 39,
+    "frame_file": "cut_039.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.0,
+      8.0,
+      7.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 40,
+    "frame_file": "cut_040.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.6,
+      22.5,
+      14.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 41,
+    "frame_file": "cut_041.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.9,
+      13.4,
+      13.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 42,
+    "frame_file": "cut_042.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.3,
+      11.6,
+      11.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 43,
+    "frame_file": "cut_043.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.2,
+      14.0,
+      13.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 44,
+    "frame_file": "cut_044.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.5,
+      10.7,
+      10.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 45,
+    "frame_file": "cut_045.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      19.0,
+      13.0,
+      12.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 46,
+    "frame_file": "cut_046.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      35.5,
+      29.0,
+      23.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 47,
+    "frame_file": "cut_047.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      32.8,
+      27.9,
+      23.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 48,
+    "frame_file": "cut_048.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.9,
+      15.5,
+      15.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 49,
+    "frame_file": "cut_049.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      13.8,
+      8.5,
+      8.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 50,
+    "frame_file": "cut_050.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      12.5,
+      11.5,
+      11.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 51,
+    "frame_file": "cut_051.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      13.5,
+      0.7,
+      0.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 52,
+    "frame_file": "cut_052.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.4,
+      12.6,
+      7.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 53,
+    "frame_file": "cut_053.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      45.1,
+      34.8,
+      11.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 54,
+    "frame_file": "cut_054.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      17.5,
+      3.6,
+      5.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 55,
+    "frame_file": "cut_055.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.1,
+      15.3,
+      1.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 56,
+    "frame_file": "cut_056.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      12.8,
+      16.0,
+      11.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 57,
+    "frame_file": "cut_057.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#2B2D33",
+    "rgb_mean": [
+      43.4,
+      45.2,
+      51.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 58,
+    "frame_file": "cut_058.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      2.7,
+      18.0,
+      44.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 59,
+    "frame_file": "cut_059.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.2,
+      15.8,
+      1.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 60,
+    "frame_file": "cut_060.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#403027",
+    "rgb_mean": [
+      64.0,
+      48.4,
+      39.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 61,
+    "frame_file": "cut_061.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#543B35",
+    "rgb_mean": [
+      84.8,
+      59.8,
+      53.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 62,
+    "frame_file": "cut_062.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.5,
+      21.4,
+      36.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 63,
+    "frame_file": "cut_063.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#352724",
+    "rgb_mean": [
+      53.4,
+      39.2,
+      36.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 64,
+    "frame_file": "cut_064.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.0,
+      20.1,
+      19.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 65,
+    "frame_file": "cut_065.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.3,
+      26.7,
+      24.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 66,
+    "frame_file": "cut_066.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      12.5,
+      6.9,
+      7.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 67,
+    "frame_file": "cut_067.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      24.4,
+      22.6,
+      25.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 68,
+    "frame_file": "cut_068.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#3A2B05",
+    "rgb_mean": [
+      58.3,
+      43.8,
+      5.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 69,
+    "frame_file": "cut_069.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      41.3,
+      19.9,
+      3.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 70,
+    "frame_file": "cut_070.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      42.8,
+      32.4,
+      26.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 71,
+    "frame_file": "cut_071.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.5,
+      15.0,
+      12.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 72,
+    "frame_file": "cut_072.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#2F373B",
+    "rgb_mean": [
+      47.5,
+      55.2,
+      59.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 73,
+    "frame_file": "cut_073.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.3,
+      27.2,
+      36.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 74,
+    "frame_file": "cut_074.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.7,
+      2.0,
+      27.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 75,
+    "frame_file": "cut_075.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.0,
+      14.1,
+      13.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 76,
+    "frame_file": "cut_076.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#3B2202",
+    "rgb_mean": [
+      59.9,
+      34.9,
+      2.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 77,
+    "frame_file": "cut_077.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.8,
+      16.4,
+      24.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 78,
+    "frame_file": "cut_078.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#3D393A",
+    "rgb_mean": [
+      61.8,
+      57.5,
+      58.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 79,
+    "frame_file": "cut_079.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      35.5,
+      33.0,
+      36.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 80,
+    "frame_file": "cut_080.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      32.3,
+      40.0,
+      43.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 81,
+    "frame_file": "cut_081.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.8,
+      19.4,
+      27.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 82,
+    "frame_file": "cut_082.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      22.6,
+      29.1,
+      36.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 83,
+    "frame_file": "cut_083.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      42.9,
+      40.3,
+      37.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 84,
+    "frame_file": "cut_084.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.1,
+      21.7,
+      19.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 85,
+    "frame_file": "cut_085.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.9,
+      31.0,
+      37.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 86,
+    "frame_file": "cut_086.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.3,
+      14.8,
+      22.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 87,
+    "frame_file": "cut_087.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.1,
+      12.5,
+      12.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 88,
+    "frame_file": "cut_088.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      33.7,
+      19.7,
+      1.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 89,
+    "frame_file": "cut_089.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.5,
+      15.4,
+      16.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 90,
+    "frame_file": "cut_090.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      19.4,
+      18.6,
+      17.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 91,
+    "frame_file": "cut_091.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      24.8,
+      17.4,
+      9.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 92,
+    "frame_file": "cut_092.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.0,
+      22.8,
+      22.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 93,
+    "frame_file": "cut_093.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.4,
+      19.6,
+      32.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 94,
+    "frame_file": "cut_094.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      19.9,
+      17.6,
+      14.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 95,
+    "frame_file": "cut_095.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      46.3,
+      29.0,
+      2.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 96,
+    "frame_file": "cut_096.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.9,
+      13.2,
+      18.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 97,
+    "frame_file": "cut_097.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      38.1,
+      23.7,
+      2.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 98,
+    "frame_file": "cut_098.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      21.9,
+      14.8,
+      8.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 99,
+    "frame_file": "cut_099.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.2,
+      22.6,
+      2.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 100,
+    "frame_file": "cut_100.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      38.3,
+      24.7,
+      2.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 101,
+    "frame_file": "cut_101.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.8,
+      16.0,
+      23.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 102,
+    "frame_file": "cut_102.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      26.3,
+      21.9,
+      21.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 103,
+    "frame_file": "cut_103.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      44.3,
+      36.3,
+      40.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 104,
+    "frame_file": "cut_104.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.4,
+      16.9,
+      24.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 105,
+    "frame_file": "cut_105.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      37.0,
+      24.9,
+      2.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 106,
+    "frame_file": "cut_106.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.5,
+      24.6,
+      22.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 107,
+    "frame_file": "cut_107.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.9,
+      27.7,
+      2.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 108,
+    "frame_file": "cut_108.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.7,
+      22.6,
+      4.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 109,
+    "frame_file": "cut_109.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.2,
+      15.6,
+      1.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 110,
+    "frame_file": "cut_110.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#342625",
+    "rgb_mean": [
+      52.0,
+      38.9,
+      37.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 111,
+    "frame_file": "cut_111.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      33.6,
+      21.2,
+      20.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 112,
+    "frame_file": "cut_112.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      32.6,
+      20.9,
+      2.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 113,
+    "frame_file": "cut_113.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      42.0,
+      28.6,
+      2.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 114,
+    "frame_file": "cut_114.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.4,
+      19.4,
+      1.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 115,
+    "frame_file": "cut_115.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      42.2,
+      28.8,
+      2.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 116,
+    "frame_file": "cut_116.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#37282D",
+    "rgb_mean": [
+      55.4,
+      40.9,
+      45.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 117,
+    "frame_file": "cut_117.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      24.0,
+      17.6,
+      19.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 118,
+    "frame_file": "cut_118.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      35.8,
+      24.4,
+      2.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 119,
+    "frame_file": "cut_119.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.2,
+      13.0,
+      16.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 120,
+    "frame_file": "cut_120.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.2,
+      20.6,
+      2.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 121,
+    "frame_file": "cut_121.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.3,
+      18.0,
+      3.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 122,
+    "frame_file": "cut_122.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.1,
+      40.1,
+      28.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 123,
+    "frame_file": "cut_123.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.8,
+      21.0,
+      14.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 124,
+    "frame_file": "cut_124.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.2,
+      23.7,
+      2.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 125,
+    "frame_file": "cut_125.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      38.0,
+      24.9,
+      2.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 126,
+    "frame_file": "cut_126.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      22.4,
+      14.6,
+      1.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 127,
+    "frame_file": "cut_127.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      48.5,
+      28.9,
+      26.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 128,
+    "frame_file": "cut_128.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      44.1,
+      32.5,
+      44.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 129,
+    "frame_file": "cut_129.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.5,
+      16.2,
+      30.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 130,
+    "frame_file": "cut_130.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.3,
+      32.9,
+      16.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 131,
+    "frame_file": "cut_131.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.6,
+      21.7,
+      5.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 132,
+    "frame_file": "cut_132.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.6,
+      18.7,
+      1.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 133,
+    "frame_file": "cut_133.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      21.1,
+      13.8,
+      1.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 134,
+    "frame_file": "cut_134.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      44.1,
+      43.8,
+      45.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 135,
+    "frame_file": "cut_135.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      21.8,
+      19.6,
+      25.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 136,
+    "frame_file": "cut_136.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.7,
+      16.9,
+      1.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 137,
+    "frame_file": "cut_137.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.5,
+      19.7,
+      1.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 138,
+    "frame_file": "cut_138.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      39.2,
+      33.2,
+      30.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 139,
+    "frame_file": "cut_139.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.1,
+      14.1,
+      17.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 140,
+    "frame_file": "cut_140.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.8,
+      26.0,
+      33.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 141,
+    "frame_file": "cut_141.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      21.9,
+      15.5,
+      1.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 142,
+    "frame_file": "cut_142.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.7,
+      22.7,
+      6.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 143,
+    "frame_file": "cut_143.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#460427",
+    "rgb_mean": [
+      70.9,
+      4.3,
+      39.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 144,
+    "frame_file": "cut_144.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.5,
+      30.6,
+      30.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 145,
+    "frame_file": "cut_145.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      39.2,
+      13.3,
+      22.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 146,
+    "frame_file": "cut_146.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#38192D",
+    "rgb_mean": [
+      56.3,
+      25.7,
+      45.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 147,
+    "frame_file": "cut_147.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#331A26",
+    "rgb_mean": [
+      51.1,
+      26.3,
+      38.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 148,
+    "frame_file": "cut_148.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      45.0,
+      4.4,
+      20.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 149,
+    "frame_file": "cut_149.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      33.3,
+      5.4,
+      22.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 150,
+    "frame_file": "cut_150.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      38.1,
+      26.2,
+      36.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 151,
+    "frame_file": "cut_151.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.3,
+      8.9,
+      22.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 152,
+    "frame_file": "cut_152.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#4C2137",
+    "rgb_mean": [
+      76.6,
+      33.6,
+      55.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 153,
+    "frame_file": "cut_153.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#3E0B1E",
+    "rgb_mean": [
+      62.1,
+      11.9,
+      30.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 154,
+    "frame_file": "cut_154.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#5E2F49",
+    "rgb_mean": [
+      94.4,
+      47.7,
+      73.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 155,
+    "frame_file": "cut_155.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#3B2E38",
+    "rgb_mean": [
+      59.1,
+      46.7,
+      56.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 156,
+    "frame_file": "cut_156.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#332029",
+    "rgb_mean": [
+      51.7,
+      32.6,
+      41.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 157,
+    "frame_file": "cut_157.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      47.5,
+      35.9,
+      46.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 158,
+    "frame_file": "cut_158.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.5,
+      17.6,
+      28.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 159,
+    "frame_file": "cut_159.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      22.9,
+      23.3,
+      36.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 160,
+    "frame_file": "cut_160.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#403136",
+    "rgb_mean": [
+      64.7,
+      49.9,
+      54.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 161,
+    "frame_file": "cut_161.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      45.6,
+      31.0,
+      36.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 162,
+    "frame_file": "cut_162.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#371C26",
+    "rgb_mean": [
+      55.7,
+      28.5,
+      38.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 163,
+    "frame_file": "cut_163.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.9,
+      27.1,
+      27.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 164,
+    "frame_file": "cut_164.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      47.8,
+      38.9,
+      42.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 165,
+    "frame_file": "cut_165.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.4,
+      20.3,
+      26.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 166,
+    "frame_file": "cut_166.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      21.6,
+      5.6,
+      8.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 167,
+    "frame_file": "cut_167.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      46.4,
+      15.9,
+      27.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 168,
+    "frame_file": "cut_168.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.4,
+      9.6,
+      10.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 169,
+    "frame_file": "cut_169.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#290E33",
+    "rgb_mean": [
+      41.2,
+      14.2,
+      51.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 170,
+    "frame_file": "cut_170.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.3,
+      7.8,
+      8.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 171,
+    "frame_file": "cut_171.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.4,
+      10.1,
+      25.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 172,
+    "frame_file": "cut_172.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      6.1,
+      19.1,
+      6.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 173,
+    "frame_file": "cut_173.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.2,
+      9.1,
+      9.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 174,
+    "frame_file": "cut_174.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      44.5,
+      29.2,
+      29.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 175,
+    "frame_file": "cut_175.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      2.4,
+      6.2,
+      23.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 176,
+    "frame_file": "cut_176.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      29.8,
+      6.6,
+      3.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 177,
+    "frame_file": "cut_177.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      34.8,
+      32.0,
+      32.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 178,
+    "frame_file": "cut_178.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      10.7,
+      14.6,
+      14.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 179,
+    "frame_file": "cut_179.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      34.6,
+      41.7,
+      29.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 180,
+    "frame_file": "cut_180.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      22.1,
+      24.1,
+      19.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 181,
+    "frame_file": "cut_181.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      39.3,
+      5.9,
+      24.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 182,
+    "frame_file": "cut_182.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      43.2,
+      26.1,
+      28.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 183,
+    "frame_file": "cut_183.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.6,
+      3.9,
+      4.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 184,
+    "frame_file": "cut_184.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.2,
+      3.3,
+      2.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 185,
+    "frame_file": "cut_185.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.8,
+      14.3,
+      13.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 186,
+    "frame_file": "cut_186.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.9,
+      21.2,
+      46.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 187,
+    "frame_file": "cut_187.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#32303B",
+    "rgb_mean": [
+      50.8,
+      48.0,
+      59.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 188,
+    "frame_file": "cut_188.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.1,
+      10.2,
+      23.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 189,
+    "frame_file": "cut_189.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.3,
+      31.4,
+      38.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 190,
+    "frame_file": "cut_190.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.5,
+      17.3,
+      18.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 191,
+    "frame_file": "cut_191.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.5,
+      21.3,
+      34.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 192,
+    "frame_file": "cut_192.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#383106",
+    "rgb_mean": [
+      56.4,
+      49.8,
+      6.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 193,
+    "frame_file": "cut_193.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      37.8,
+      36.9,
+      32.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 194,
+    "frame_file": "cut_194.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.6,
+      38.1,
+      37.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 195,
+    "frame_file": "cut_195.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      16.2,
+      16.9,
+      18.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 196,
+    "frame_file": "cut_196.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      42.6,
+      43.2,
+      40.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 197,
+    "frame_file": "cut_197.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      18.2,
+      14.2,
+      16.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 198,
+    "frame_file": "cut_198.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.0,
+      12.6,
+      13.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 199,
+    "frame_file": "cut_199.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.2,
+      32.8,
+      26.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 200,
+    "frame_file": "cut_200.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      33.8,
+      35.9,
+      44.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 201,
+    "frame_file": "cut_201.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      22.1,
+      20.8,
+      31.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 202,
+    "frame_file": "cut_202.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.5,
+      31.0,
+      29.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 203,
+    "frame_file": "cut_203.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#362E2D",
+    "rgb_mean": [
+      54.6,
+      46.4,
+      45.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 204,
+    "frame_file": "cut_204.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      30.2,
+      17.0,
+      18.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 205,
+    "frame_file": "cut_205.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      26.6,
+      12.3,
+      21.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 206,
+    "frame_file": "cut_206.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      43.9,
+      35.8,
+      34.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 207,
+    "frame_file": "cut_207.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.6,
+      18.1,
+      14.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 208,
+    "frame_file": "cut_208.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      48.8,
+      21.0,
+      22.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 209,
+    "frame_file": "cut_209.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.2,
+      21.0,
+      19.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 210,
+    "frame_file": "cut_210.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.4,
+      37.0,
+      31.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 211,
+    "frame_file": "cut_211.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      39.5,
+      39.4,
+      36.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 212,
+    "frame_file": "cut_212.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#441132",
+    "rgb_mean": [
+      68.6,
+      17.9,
+      50.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 213,
+    "frame_file": "cut_213.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#64244B",
+    "rgb_mean": [
+      100.3,
+      36.2,
+      75.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 214,
+    "frame_file": "cut_214.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#4E0F35",
+    "rgb_mean": [
+      78.9,
+      15.2,
+      53.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 215,
+    "frame_file": "cut_215.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      25.7,
+      13.8,
+      25.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 216,
+    "frame_file": "cut_216.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#643A4D",
+    "rgb_mean": [
+      100.0,
+      58.7,
+      77.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 217,
+    "frame_file": "cut_217.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#491C30",
+    "rgb_mean": [
+      73.2,
+      28.6,
+      48.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 218,
+    "frame_file": "cut_218.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#49403F",
+    "rgb_mean": [
+      73.2,
+      64.3,
+      63.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 219,
+    "frame_file": "cut_219.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      43.4,
+      33.0,
+      35.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 220,
+    "frame_file": "cut_220.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.0,
+      13.0,
+      20.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 221,
+    "frame_file": "cut_221.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      34.4,
+      24.0,
+      19.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 222,
+    "frame_file": "cut_222.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#32142A",
+    "rgb_mean": [
+      50.8,
+      20.1,
+      42.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 223,
+    "frame_file": "cut_223.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#341D30",
+    "rgb_mean": [
+      52.3,
+      29.0,
+      48.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 224,
+    "frame_file": "cut_224.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      47.0,
+      41.1,
+      49.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 225,
+    "frame_file": "cut_225.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      24.0,
+      14.3,
+      29.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 226,
+    "frame_file": "cut_226.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#3C1530",
+    "rgb_mean": [
+      60.5,
+      21.8,
+      48.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 227,
+    "frame_file": "cut_227.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      49.3,
+      5.4,
+      32.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 228,
+    "frame_file": "cut_228.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#4C2931",
+    "rgb_mean": [
+      76.1,
+      41.3,
+      49.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 229,
+    "frame_file": "cut_229.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      36.7,
+      21.8,
+      25.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 230,
+    "frame_file": "cut_230.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      35.6,
+      19.4,
+      32.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 231,
+    "frame_file": "cut_231.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#321D13",
+    "rgb_mean": [
+      50.0,
+      29.8,
+      19.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 232,
+    "frame_file": "cut_232.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#472416",
+    "rgb_mean": [
+      71.1,
+      36.5,
+      22.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 233,
+    "frame_file": "cut_233.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#39140F",
+    "rgb_mean": [
+      57.6,
+      20.3,
+      15.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 234,
+    "frame_file": "cut_234.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#411C16",
+    "rgb_mean": [
+      65.5,
+      28.2,
+      22.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 235,
+    "frame_file": "cut_235.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      29.3,
+      21.1,
+      21.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 236,
+    "frame_file": "cut_236.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      14.8,
+      4.3,
+      7.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 237,
+    "frame_file": "cut_237.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      41.0,
+      37.2,
+      27.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 238,
+    "frame_file": "cut_238.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      24.5,
+      16.5,
+      9.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 239,
+    "frame_file": "cut_239.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#352F23",
+    "rgb_mean": [
+      53.3,
+      47.2,
+      35.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 240,
+    "frame_file": "cut_240.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#39081D",
+    "rgb_mean": [
+      57.9,
+      8.4,
+      29.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 241,
+    "frame_file": "cut_241.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      34.3,
+      23.0,
+      28.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 242,
+    "frame_file": "cut_242.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      37.4,
+      34.5,
+      30.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 243,
+    "frame_file": "cut_243.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.4,
+      13.9,
+      15.7
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 244,
+    "frame_file": "cut_244.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      37.1,
+      34.6,
+      30.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 245,
+    "frame_file": "cut_245.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      15.5,
+      12.5,
+      10.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 246,
+    "frame_file": "cut_246.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      42.2,
+      29.6,
+      23.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 247,
+    "frame_file": "cut_247.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      11.9,
+      13.3,
+      17.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 248,
+    "frame_file": "cut_248.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      23.7,
+      37.8,
+      41.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 249,
+    "frame_file": "cut_249.png",
+    "portfolio_keyword": "C\u00c9SAR CABRERA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.6,
+      29.7,
+      23.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 250,
+    "frame_file": "cut_250.png",
+    "portfolio_keyword": "CANAL+",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      26.6,
+      25.5,
+      10.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 251,
+    "frame_file": "cut_251.png",
+    "portfolio_keyword": "D\u00c9J\u00c0 VU",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      27.4,
+      9.1,
+      22.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 252,
+    "frame_file": "cut_252.png",
+    "portfolio_keyword": "ABSENCE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      31.0,
+      19.1,
+      22.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 253,
+    "frame_file": "cut_253.png",
+    "portfolio_keyword": "PARFUMS BEAUT\u00c9",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#41292B",
+    "rgb_mean": [
+      65.3,
+      41.8,
+      43.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 254,
+    "frame_file": "cut_254.png",
+    "portfolio_keyword": "360\u00b0 CAMPAIGN",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      46.5,
+      19.2,
+      27.8
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 255,
+    "frame_file": "cut_255.png",
+    "portfolio_keyword": "NARRATION VISUELLE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#2B3443",
+    "rgb_mean": [
+      43.3,
+      52.1,
+      67.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 256,
+    "frame_file": "cut_256.png",
+    "portfolio_keyword": "STORYTELLING",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      28.1,
+      26.2,
+      44.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 257,
+    "frame_file": "cut_257.png",
+    "portfolio_keyword": "DIRECTION ARTISTIQUE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#321511",
+    "rgb_mean": [
+      50.6,
+      21.5,
+      17.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 258,
+    "frame_file": "cut_258.png",
+    "portfolio_keyword": "R\u00c9DACTION",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#381F24",
+    "rgb_mean": [
+      56.9,
+      31.8,
+      36.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 259,
+    "frame_file": "cut_259.png",
+    "portfolio_keyword": "CONCEPTEUR-R\u00c9DACTEUR",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.4,
+      16.2,
+      16.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 260,
+    "frame_file": "cut_260.png",
+    "portfolio_keyword": "S\u00c9RIES ENTRE POTES",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#341C21",
+    "rgb_mean": [
+      52.2,
+      28.8,
+      33.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 261,
+    "frame_file": "cut_261.png",
+    "portfolio_keyword": "LA SC\u00c8NE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      37.2,
+      12.8,
+      12.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 262,
+    "frame_file": "cut_262.png",
+    "portfolio_keyword": "FESTIVAL DE CANNES",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#46302D",
+    "rgb_mean": [
+      70.1,
+      48.4,
+      45.9
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 263,
+    "frame_file": "cut_263.png",
+    "portfolio_keyword": "BERLINALE",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.8,
+      20.7,
+      21.1
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 264,
+    "frame_file": "cut_264.png",
+    "portfolio_keyword": "MOSTRA DE VENISE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#000000",
+    "rgb_mean": [
+      48.2,
+      48.2,
+      48.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 265,
+    "frame_file": "cut_265.png",
+    "portfolio_keyword": "DEAUVILLE",
+    "detected_font_family": "Impact / Futura ExtraBold",
+    "background_color": "#675038",
+    "rgb_mean": [
+      103.7,
+      80.7,
+      56.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 266,
+    "frame_file": "cut_266.png",
+    "portfolio_keyword": "C\u00c9R\u00c9MONIE DES C\u00c9SAR",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      40.4,
+      11.0,
+      17.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 267,
+    "frame_file": "cut_267.png",
+    "portfolio_keyword": "ROBERT REDFORD",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      20.5,
+      19.4,
+      45.3
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 268,
+    "frame_file": "cut_268.png",
+    "portfolio_keyword": "\u00c9COLE DES GOBELINS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#2B274C",
+    "rgb_mean": [
+      43.8,
+      39.2,
+      76.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 269,
+    "frame_file": "cut_269.png",
+    "portfolio_keyword": "LA SORBONNE",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      39.6,
+      26.9,
+      32.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 270,
+    "frame_file": "cut_270.png",
+    "portfolio_keyword": "FLAUBERT",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#383335",
+    "rgb_mean": [
+      56.3,
+      51.9,
+      53.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 271,
+    "frame_file": "cut_271.png",
+    "portfolio_keyword": "KAFKA",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#3A2E34",
+    "rgb_mean": [
+      58.3,
+      46.7,
+      52.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 272,
+    "frame_file": "cut_272.png",
+    "portfolio_keyword": "STEFAN ZWEIG",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      14.2,
+      12.2,
+      4.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 273,
+    "frame_file": "cut_273.png",
+    "portfolio_keyword": "EXTENDED VOID",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      44.1,
+      35.5,
+      48.2
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": true,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 274,
+    "frame_file": "cut_274.png",
+    "portfolio_keyword": "PARIS",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#383C3F",
+    "rgb_mean": [
+      56.9,
+      60.9,
+      63.5
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 275,
+    "frame_file": "cut_275.png",
+    "portfolio_keyword": "MILANO",
+    "detected_font_family": "Cooper Black / ITC Kabel",
+    "background_color": "#000000",
+    "rgb_mean": [
+      43.9,
+      12.5,
+      12.6
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 276,
+    "frame_file": "cut_276.png",
+    "portfolio_keyword": "MADRID",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#FF0000",
+    "rgb_mean": [
+      150.8,
+      7.2,
+      6.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": true,
+      "chromatic_aberration": true
+    }
+  },
+  {
+    "cut_id": 277,
+    "frame_file": "cut_277.png",
+    "portfolio_keyword": "ROUEN",
+    "detected_font_family": "Helvetica Black / Inserat",
+    "background_color": "#A14C08",
+    "rgb_mean": [
+      161.5,
+      76.6,
+      8.4
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": false,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  },
+  {
+    "cut_id": 278,
+    "frame_file": "cut_278.png",
+    "portfolio_keyword": "NEUILLY-SUR-SEINE",
+    "detected_font_family": "Eurostile / Neon Contour",
+    "background_color": "#000000",
+    "rgb_mean": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "effects": {
+      "strobe": true,
+      "outline_stroke": true,
+      "opt_art_wave": false,
+      "chromatic_aberration": false
+    }
+  }
+]
