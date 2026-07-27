@@ -165,8 +165,13 @@
       border: 1px solid var(--hairline);
       border-radius: 4px;
       overflow: hidden;
-      cursor: pointer;
+      cursor: pointer !important;
       transition: transform 0.2s, border-color 0.2s;
+    }
+
+    .cover-thumb * {
+      cursor: pointer !important;
+      pointer-events: none;
     }
 
     .cover-thumb:hover {
@@ -174,14 +179,6 @@
       border-color: var(--accent);
       z-index: 10;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    }
-
-    .cover-thumb a {
-      display: block;
-      width: 100%;
-      height: 100%;
-      text-decoration: none;
-      cursor: pointer;
     }
 
     .cover-thumb img {
@@ -362,77 +359,53 @@
   <div class="cover-filmstrip">
     <div class="cover-filmstrip-head">Canal+ Déjà Vu Official Vignettes &amp; Covers (Click to View Video)</div>
     <div class="cover-row">
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=MMRjyePjAC8" target="_blank" rel="noopener">
-          <img src="assets/vignettes/oppenheimer.jpg" alt="Oppenheimer" />
-          <div class="tooltip">▶ Oppenheimer</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=MMRjyePjAC8">
+        <img src="assets/vignettes/oppenheimer.jpg" alt="Oppenheimer" />
+        <div class="tooltip">▶ Oppenheimer</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/barbie.jpg" alt="Barbie" />
-          <div class="tooltip">▶ Barbie</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/barbie.jpg" alt="Barbie" />
+        <div class="tooltip">▶ Barbie</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=7mxsPRaSjH0" target="_blank" rel="noopener">
-          <img src="assets/vignettes/john_wick_4.jpg" alt="John Wick 4" />
-          <div class="tooltip">▶ John Wick 4</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=7mxsPRaSjH0">
+        <img src="assets/vignettes/john_wick_4.jpg" alt="John Wick 4" />
+        <div class="tooltip">▶ John Wick 4</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/anatomie_chute.jpg" alt="Anatomie d'une Chute" />
-          <div class="tooltip">▶ Anatomie d'une Chute</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/anatomie_chute.jpg" alt="Anatomie d'une Chute" />
+        <div class="tooltip">▶ Anatomie d'une Chute</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/napoleon.jpg" alt="Napoleon" />
-          <div class="tooltip">▶ Napoléon</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/napoleon.jpg" alt="Napoleon" />
+        <div class="tooltip">▶ Napoléon</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/dead_reckoning.jpg" alt="Dead Reckoning" />
-          <div class="tooltip">▶ Dead Reckoning</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/dead_reckoning.jpg" alt="Dead Reckoning" />
+        <div class="tooltip">▶ Dead Reckoning</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/fabelmans.jpg" alt="The Fabelmans" />
-          <div class="tooltip">▶ The Fabelmans</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/fabelmans.jpg" alt="The Fabelmans" />
+        <div class="tooltip">▶ The Fabelmans</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/creator.jpg" alt="The Creator" />
-          <div class="tooltip">▶ The Creator</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/creator.jpg" alt="The Creator" />
+        <div class="tooltip">▶ The Creator</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/gran_turismo.jpg" alt="Gran Turismo" />
-          <div class="tooltip">▶ Gran Turismo</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/gran_turismo.jpg" alt="Gran Turismo" />
+        <div class="tooltip">▶ Gran Turismo</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=w_lz1Nc-AOY" target="_blank" rel="noopener">
-          <img src="assets/vignettes/creed_3.jpg" alt="Creed III" />
-          <div class="tooltip">▶ Creed III</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=w_lz1Nc-AOY">
+        <img src="assets/vignettes/creed_3.jpg" alt="Creed III" />
+        <div class="tooltip">▶ Creed III</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=MMRjyePjAC8" target="_blank" rel="noopener">
-          <img src="assets/vignettes/eiffel.png" alt="Eiffel" />
-          <div class="tooltip">▶ Eiffel</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=MMRjyePjAC8">
+        <img src="assets/vignettes/eiffel.png" alt="Eiffel" />
+        <div class="tooltip">▶ Eiffel</div>
       </div>
-      <div class="cover-thumb">
-        <a href="https://www.youtube.com/watch?v=WSTqrA1ChVk" target="_blank" rel="noopener">
-          <img src="assets/vignettes/dune.png" alt="Dune" />
-          <div class="tooltip">▶ Cannes 2021</div>
-        </a>
+      <div class="cover-thumb" data-url="https://www.youtube.com/watch?v=WSTqrA1ChVk">
+        <img src="assets/vignettes/dune.png" alt="Dune" />
+        <div class="tooltip">▶ Cannes 2021</div>
       </div>
     </div>
   </div>
@@ -456,10 +429,11 @@
       var iframe = document.getElementById("modal-iframe");
       var closeBtn = document.getElementById("modal-close");
 
-      document.querySelectorAll(".cover-thumb a").forEach(function(link) {
-        link.addEventListener("click", function(e) {
+      document.querySelectorAll(".cover-thumb").forEach(function(thumb) {
+        thumb.addEventListener("click", function(e) {
           e.preventDefault();
-          var ytUrl = link.getAttribute("href");
+          var ytUrl = thumb.getAttribute("data-url");
+          if (!ytUrl) return;
           var videoId = "";
           if (ytUrl.indexOf("v=") !== -1) {
             videoId = ytUrl.split("v=")[1].split("&")[0];
