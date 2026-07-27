@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <title>César Cabrera — Hyper-Chronology Timeline (2004–2026)</title>
+  <link rel="icon" type="image/png" href="assets/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --canvas: #f5f4ed;
+      --surface: #ffffff;
+      --ink: #1f1d18;
+      --muted: #6b665b;
+      --hairline: #d4d1c5;
+      --accent: #1B365D;
+      --gold: #d4af37;
+      --display: 'Instrument Serif', Georgia, serif;
+      --sans: 'Inter Tight', system-ui, sans-serif;
+      --mono: 'JetBrains Mono', ui-monospace, monospace;
+    }
+
+    @page {
+      size: 297mm 210mm; /* A4 Landscape */
+      margin: 0;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--canvas);
+      color: var(--ink);
+      font-family: var(--sans);
+      width: 297mm;
+      height: 210mm;
+      padding: 16mm 20mm;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--hairline);
+    }
+
+    .header h1 {
+      font-family: var(--display);
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 1;
+    }
+
+    .header .subtitle {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-top: 6px;
+    }
+
+    .header .meta {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      text-align: right;
+    }
+
+    .timeline-row {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 14px;
+      margin-top: 20px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--hairline);
+      border-radius: 8px;
+      padding: 16px 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      position: relative;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      top: -10px;
+      left: 0; right: 0;
+      height: 2px;
+      background: var(--accent);
+    }
+
+    .card .date {
+      font-family: var(--mono);
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 0.08em;
+    }
+
+    .card h3 {
+      font-family: var(--display);
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 1.15;
+    }
+
+    .card ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      font-size: 11px;
+      color: var(--muted);
+      line-height: 1.45;
+    }
+
+    .card ul li {
+      margin-bottom: 6px;
+      position: relative;
+      padding-left: 10px;
+    }
+
+    .card ul li::before {
+      content: '•';
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+    }
+
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 12px;
+      border-top: 1px solid var(--hairline);
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--muted);
+    }
+
+    .print-btn {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: var(--ink);
+      color: var(--canvas);
+      border: none;
+      font-family: var(--mono);
+      font-size: 12px;
+      padding: 12px 20px;
+      border-radius: 999px;
+      cursor: pointer;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+      z-index: 100;
+    }
+
+    @media print {
+      .print-btn { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+  <button class="print-btn" onclick="window.print()">Exporter PDF (16:9 Landscape)</button>
+
+  <header class="header">
+    <div>
+      <h1>César Cabrera — Executive Creative Timeline</h1>
+      <div class="subtitle">Concepteur-Rédacteur Senior · Senior Creative Advisor</div>
+    </div>
+    <div class="meta">
+      Paris · Milano · Madrid · Rouen<br>
+      extendedvoid.prod@gmail.com · +33 6 02 08 16 48
+    </div>
+  </header>
+
+  <div class="timeline-row">
+    <div class="card">
+      <span class="date">2004 – 2012</span>
+      <h3>Foundations &amp; Literature</h3>
+      <ul>
+        <li>Paris X Nanterre — Licence LLCE Literature &amp; Cinema.</li>
+        <li>CNAM — Master 2 International Business.</li>
+        <li>Ministerio de Educación — Language Pedagogy.</li>
+        <li>Native FR/ES, C1 EN, A2 IT.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <span class="date">2012 – 2016</span>
+      <h3>Live DA &amp; Brand Content</h3>
+      <ul>
+        <li>Palais de Tokyo — Executive Producer Grolsch (Warhol Factory, 2k+ guests).</li>
+        <li>Grand Palais — Live VJing for Dream Koala (6k+ guests).</li>
+        <li>Netflix &amp; Konbini — Cannes 2016 brand content formats.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <span class="date">2017 – 2024</span>
+      <h3>Canal+ "Movie Parallels"</h3>
+      <ul>
+        <li>Déjà Vu — 6 Seasons, 100+ episodes on Canal+.</li>
+        <li>Invention of side-by-side visual rhyme grammar.</li>
+        <li>Festival coverage: Cannes 2021, Berlinale 2022, Venice Mostra 2023.</li>
+        <li>Original Music Scores credited as Extended Void.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <span class="date">2024 – 2026</span>
+      <h3>Sorbonne &amp; AI Systems</h3>
+      <ul>
+        <li>Gobelins — Documentary Filmmaking.</li>
+        <li>La Sorbonne &amp; Artist Academy — Narrative Masterclasses (Flaubert, Kafka, Zweig).</li>
+        <li>Pioneered Animated Artwork Explorer &amp; CraftCut 360° AI pipelines.</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <span class="date">2026+</span>
+      <h3>European Advisory</h3>
+      <ul>
+        <li>Paris · Milano · Madrid · London footprint.</li>
+        <li>Spec fragrance film "Absence" &amp; 360° luxury campaigns.</li>
+        <li>Strategic Advisor for Luxury Maisons (Chanel, LVMH, Kering) &amp; TV networks.</li>
+      </ul>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <span>César Cabrera (Extended Void) — Master Portfolio</span>
+    <span>https://extendedvoidvoid.github.io/portfolio-case-la-maison-noire/</span>
+    <span>Jul 2026</span>
+  </footer>
+
+</body>
+</html>

@@ -18,6 +18,8 @@ async function build() {
     let pageHtml = frHtml
       .replace('<html lang="fr">', `<html lang="${lang}">`)
       .replace(/<title>.*?<\/title>/, `<title>${loc.title}</title>`)
+      .replace(/content="César Cabrera — Concepteur-Rédacteur · Films & Images"/g, `content="${loc.title}"`)
+      .replace(/content="Portfolio — Déjà Vu \(Canal\+\), case study « Absence » film parfum \(spec\), narration visuelle & direction créative 360°\."/g, `content="${loc.lede}"`)
       .replace(/href="assets\//g, 'href="../assets/')
       .replace(/src="assets\//g, 'src="../assets/')
       .replace(/href="favicon\.ico"/g, 'href="../favicon.ico"')
