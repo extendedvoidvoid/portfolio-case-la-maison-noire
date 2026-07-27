@@ -75,12 +75,16 @@
   - `33.17s` (`CÉRÉMONIE DES CÉSAR`): Overlay French Flag 🇫🇷 / Tricolor Strobe.
   - `33.75s` (`ROBERT REDFORD`): Overlay US Flag 🇺🇸 + 1970s 16:9 35mm New Hollywood lobby cards (*Three Days of the Condor*, *All the President's Men*, *The Sting*).
 
-### Chunk 07 Directives (35.0s – 40.0s / Frames 0841–0960)
-- **Fast-Paced Prestige Fashion & Cinema Press Quote Strobe:** Rapid 1-frame strobe cuts featuring quotes from top cultural & fashion magazines:
-  - **Vogue:** *"An intricate mapping of cinema's visual rhymes and spatial memory."*
-  - **IndieWire:** *"A dizzying study in film lineage and the ancestry of mise-en-scène."*
-  - **Dazed & Confused:** *"Decoding the subconscious visual DNA connecting film, fashion, and haute couture."*
-  - **Vice / Creators Project:** *"A hypnotic, machine-gun onslaught of cinematic parallels."*
+### Chunk 08 Directives (40.0s – 45.0s / Frames 0961–1080)
+- **Polaroid Burn 10-Color Strobe Logo Sequence:** For each brand (Vogue, IndieWire, Dazed, Vice), follow text quote with centered brand logo cycling through **10 stroboscopic Polaroid burn color changes** (`#FF0054` $\rightarrow$ `#FFB703` $\rightarrow$ `#00F0FF` $\rightarrow$ `#3A0CA3` $\rightarrow$ `#7209B7` $\rightarrow$ `#EF233C` $\rightarrow$ `#38B000` $\rightarrow$ `#F72585` $\rightarrow$ `#4CC9F0` $\rightarrow$ `#FFFFFF`).
+
+### Chunk 09 Directives (45.0s – 50.0s / Frames 1081–1200)
+- **Vintage 16:9 Movie Posters & Lobby Cards:** Immediately after movie title text (*Three Days of the Condor*, *All the President's Men*, *The Sting*, *Jeremiah Johnson*), flash the 16:9 film poster / 35mm lobby card stills.
+
+### Chunk 10 Directives (50.0s – 55.0s / Frames 1201–1320)
+- **High-Density Name Density & Requiem for a Dream Anchor:** Equalize card name density with original sequence:
+  - Branch **Year** + **Canal+ Collaborator Names** + **Italian Expressions** (*"Mise en scène"*, *"L'arte del cinema"*, *"Cinéma Vérité"*).
+  - Feature **"Candice Drouet"** next to the 16:9 movie poster of ***Requiem for a Dream***.
 
 ---
 
