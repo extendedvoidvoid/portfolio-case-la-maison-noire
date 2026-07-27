@@ -1,86 +1,90 @@
 # ENTER THE VOID (TOM KAN 2009) MASTER RECONSTRUCTION MANIFEST
 
 **Author:** César Cabrera (Extended Void)  
-**Execution Standard:** Frame-by-Frame Sub-Millimeter Reconstruction Engine  
+**Execution Standard:** Frame-by-Frame 50-Step Milimetric Reconstruction Engine  
 **System Target:** Remotion 4.0 + Local Vision Model + FFmpeg + WebGL Shaders  
-**Total Frames:** 3,408 frames (142 seconds @ 23.976 fps)
+**Total Frames:** 3,408 frames (142 seconds @ 23.976 fps / 60 fps Remotion timeline)
 
 ---
 
-## SECTION 1: EVERY SINGLE FRAME EXTRACTION (3,408 FRAMES)
-- **Rule 1.1:** Do NOT extract scene cuts only. Extract **EVERY SINGLE FRAME INDIVIDUALLY** (`frame_0001.png` to `frame_3408.png`).
-- **Rule 1.2:** Native resolution: 1920×1080 PNG 24-bit RGB.
-- **Rule 1.3:** Directory: `/Users/cesar/Documents/remotion-studio/frames_master/`.
-
----
-
-## SECTION 2: CHUNK & MODULE LAYER SEGREGATION
-Every title card sequence broken into 4 distinct functional modules/layers:
+## LAYER ARCHITECTURE (5-LAYER SYSTEM)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ LAYER 4: Post-FX (Glow, Chromatic Aberration, Scanlines)   │
+│ LAYER 5: Post-FX (Glow, Chromatic Aberration, Scanlines)   │
 ├─────────────────────────────────────────────────────────────┤
-│ LAYER 3: Opt Art Distortion & Wave Warp Field               │
+│ LAYER 4: Opt Art Wave Warp & Displacement Filter            │
 ├─────────────────────────────────────────────────────────────┤
-│ LAYER 2: Typography Fill & Outline Stroke (CSS / SVG)       │
+│ LAYER 3: Primary Typography (Fill + Stroke/Outline)         │
+├─────────────────────────────────────────────────────────────┤
+│ LAYER 2: Japanese Katakana / Secondary Text Overlay          │
 ├─────────────────────────────────────────────────────────────┤
 │ LAYER 1: Stroboscopic Background Canvas (RGB Color Lock)    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-- **Module A: Background Canvas:** Hex color lock per frame (`#FF0000`, `#000000`, `#FFFF00`, `#FFFFFF`, `#0000FF`).
-- **Module B: Core Typography:** Vector font, kerning, tracking, scale, rotation, positioning.
-- **Module C: Outline Stroke:** Outer/inner border pixel width (`-webkit-text-stroke`).
-- **Module D: Distortion Engine:** SVG `feDisplacementMap`, `feTurbulence`, AE *Shine* radial blur, AE *Wave Warp*.
-
 ---
 
-## SECTION 3: FONT SANDBOX & WEB TYPOGRAPHY INJECTION
-- **Rule 3.1:** ZERO installation of 300 system fonts.
-- **Rule 3.2:** Font Sandbox via dynamic CSS `@font-face` injection & Google Fonts / Adobe Web Fonts API.
-- **Core 2008 Typography Mappings:**
-  1. *Impact* / *Arial Black* (Heavy Grotesque Block)
-  2. *Futura Extra Bold* / *Helvetica Ultra Compressed*
-  3. *Cooper Black* / *ITC Kabel* (Vintage Display)
-  4. *Eurostile Bold* / *Bank Gothic* (Geometric Tech)
-  5. *Shin Serif* / *DynaComware Katakana* (Japanese Stencil Overlay)
+## 50-STEP MILIMETRIC EXECUTION MANIFEST
 
----
+### Phase I: Media Ingestion & Pixel-Exact Frame Extraction (Steps 1–10)
+1. **Source Verification:** Confirm 1080p MKV source video metadata (`Enter the Void (2009) title sequence.mkv`).
+2. **Total Frame Unpack:** Extract all 3,408 frames as uncompressed 24-bit PNGs (`frame_0001.png` to `frame_3408.png`).
+3. **Audio Master Extraction:** Extract 48kHz stereo WAV audio master (`lfo_freak.wav`).
+4. **BPM & Beat Transients:** Compute 132 BPM onset detection, transient peaks, and 60–120Hz FFT bass drum triggers.
+5. **Disk Cache Allocation:** Allocate high-speed SSD cache folder `/Users/cesar/Documents/remotion-studio/frames_master/`.
+6. **Master Database Init:** Create `data/frame_manifest_3408.json` with 3,408 frame records.
+7. **Frame Integrity Audit:** Calculate per-frame SHA256 checksums to verify zero frame loss.
+8. **Telecine & Interlacing Check:** Analyze 3:2 pull-down artifacts vs native progressive scan fields.
+9. **Proxy Thumbnail Generation:** Build 1/4 scale thumbnails for fast vision model parsing.
+10. **Phase I Integrity Lock:** Lock extraction manifest with timestamp indices.
 
-## SECTION 4: 25-STEP MILIMETRIC EXECUTION MANIFEST
+### Phase II: Multi-Layer Isolation & Mask Generation (Steps 11–20)
+11. **Layer 1 Isolation:** Extract background canvas RGB color matrix per frame.
+12. **Layer 2 Isolation:** Extract primary typography fill mask via color thresholding.
+13. **Layer 3 Isolation:** Extract text stroke/outline geometry via Canny edge detection.
+14. **Layer 4 Isolation:** Extract AE *Shine* / *Starglow* radial vector maps.
+15. **Layer 5 Isolation:** Isolate secondary Japanese Katakana background text layers.
+16. **Opt Art Pattern Detection:** Classify background textures (Checkerboard, Scanlines, Concentric Circles, Stripes).
+17. **Alpha Matte Extraction:** Generate RGBA transparency mattes for all text elements.
+18. **Sub-Pixel Motion Tracking:** Track motion vectors (X/Y position, scale, rotation angle) between adjacent frames.
+19. **1-Frame Strobe Mapping:** Identify single-frame solid color toggles (Black/Red/Yellow/White/Blue).
+20. **Chromatic Aberration Vectoring:** Measure RGB channel pixel displacement distance per flash.
 
-### Phase I — Frame-by-Frame Extraction (Steps 1–5)
-1. Execute total frame extraction pass: `ffmpeg -i input.mkv -vsync 0 frames_master/frame_%04d.png`.
-2. Extract 48kHz WAV audio master (`lfo_freak_audio.wav`).
-3. Compute audio RMS amplitude array per frame for 132 BPM beat-sync alignment.
-4. Generate frame index manifest `data/frame_master_index.json` (3,408 array items).
-5. Verify zero missing or dropped frames in disk cache.
+### Phase III: Vision OCR & Adobe Typekit Font Sandbox (Steps 21–30)
+21. **Local Vision Engine Setup:** Connect local Ollama instance (`qwen2.5-vl` / `llava`) on port 11434.
+22. **OCR Parsing Pass:** Execute Vision OCR across all 3,408 frames to log original text strings.
+23. **Spatial Bounding Box Mapping:** Calculate exact `[x, y, width, height]` coordinates and center anchor points.
+24. **Font Family Classification:** Categorize fonts into 2008 Adobe Typekit families (*Impact*, *Futura Extra Bold*, *Helvetica Black*, *Cooper Black*, *ITC Kabel*, *Eurostile*, *Katakana*).
+25. **Tracking Measurement:** Calculate letter-spacing (`tracking_em`) per character pair.
+26. **Leading Measurement:** Calculate line-height (`leading_px`) for stacked multi-line cards.
+27. **Font Weight & Thickness:** Measure stroke weight and optical width.
+28. **Web Font Sandbox Setup:** Configure dynamic CSS `@font-face` sandbox with Google Fonts & Adobe Web Fonts.
+29. **Vector Glyph Fallback:** Integrate `opentype.js` / SVG path converter for custom non-standard glyphs.
+30. **Font Metadata Locking:** Write typographic schema per frame to master JSON.
 
-### Phase II — Frame-by-Frame Vision & OCR Audit (Steps 6–10)
-6. Run local Vision OCR (`qwen2.5-vl` via Ollama) on every frame.
-7. Record text bounding boxes `[x, y, w, h]` and text orientation angle.
-8. Classify font family category per frame (Impact / Futura / Helvetica / Cooper / Japanese).
-9. Measure letter-spacing (`tracking_em`) and line height (`leading_px`).
-10. Identify fill mode: Solid White, Solid Yellow, Outline Only, Inverted Mask.
+### Phase IV: Portfolio Keyword Mapping & Text Substitution (Steps 31–40)
+31. **Portfolio Corpus Compilation:** Compile César Cabrera's 30+ portfolio credentials (*CÉSAR CABRERA*, *CANAL+*, *DÉJÀ VU*, *ABSENCE*, *PARFUMS BEAUTÉ*, *360° CAMPAIGN*, *SORBONNE*, *CANNES*, *BERLINALE*, *MOSTRA*, *MILANO*, *MADRID*, etc.).
+32. **Temporal Distribution:** Distribute keywords across 3,408 frames matching Tom Kan's cut acceleration curve.
+33. **Character Aspect Matching:** Scale replacement text strings to maintain original bounding box aspect ratios.
+34. **Hero Placement:** Assign "CÉSAR CABRERA" to heavy Impact/Futura stroboscopic sequences (Intro and Outro).
+35. **Editorial Placement:** Assign Canal+, Déjà Vu, and Absence to high-contrast mid-sequence cards.
+36. **Geographic Burst Placement:** Assign Paris, Milano, Madrid, Rouen to rapid-fire 1-frame strobe cuts.
+37. **Japanese Subtitle Translation:** Translate portfolio keywords into accurate Japanese Katakana for secondary layer.
+38. **Automated Layout Fitting:** Execute auto-scaling algorithm to prevent text overflow.
+39. **Keyword Schema Locking:** Write `data/substituted_keywords_map.json`.
+40. **Safe-Zone Validation:** Verify all text bounds stay within 16:9 action-safe margins.
 
-### Phase III — Color Matrix & Strobe Mapping (Steps 11–15)
-11. Sample dominant background RGB per frame using PIL ImageStat.
-12. Detect strobe frequency (e.g., 1-frame flash vs. 2-frame hold).
-13. Calculate chromatic aberration offset in pixels (`red_shift_x`, `blue_shift_x`).
-14. Detect Opt Art background pattern (Stripes, Checkerboard, Radial Lines).
-15. Measure AE *Shine* / *Starglow* vector direction and decay opacity.
+### Phase V: Remotion React Architecture & Shader Engine (Steps 41–45)
+41. **Root Composition Setup:** Construct `<EnterTheVoidMasterSequence />` in Remotion (1920×1080 @ 60fps, 3,408 frames).
+42. **Strobe Canvas Component:** Build `<StrobeBackground />` for frame-exact RGB color flashing.
+43. **Kinetic Type Component:** Build `<KineticTypographyLayer />` rendering vector text, outlines, and SVG stroke filters.
+44. **Opt Art Shader Component:** Build `<OptArtShaderLayer />` using WebGL/SVG filters (`feDisplacementMap`, `feTurbulence`) for wave warping.
+45. **Chromatic Aberration Filter:** Build `<ChromaticFilter />` splitting RGB channels with dynamic offset vectors.
 
-### Phase IV — Automated Matching & Difference Loop (Steps 16–20)
-16. Substitute credit strings with César Cabrera's 30 portfolio keywords.
-17. Render candidate frame via Remotion headless Chrome renderer.
-18. Compute pixel-level Structural Similarity (SSIM) between original and rendered frame.
-19. Auto-tune typography font size, scale, and stroke width via gradient descent loop.
-20. Lock frame parameters into `data/enter_the_void_locked_blueprint.json`.
-
-### Phase V — Remotion Engine & Final Master Render (Steps 21–25)
-21. Build Remotion composition `<EnterTheVoidMasterSequence />` using locked JSON blueprint.
-22. Attach SVG WebGL shader filters for wave distortion and scanline grain.
-23. Synchronize `useCurrentFrame()` with `lfo_freak_audio.wav` waveform peak triggers.
-24. Multi-threaded hardware render (16 threads) to 1080p60 MP4 master.
-25. Generate web-optimized WebP / GIF hero banner for portfolio website.
+### Phase VI: Difference Optimization, Hardware Compile & Export (Steps 46–50)
+46. **Candidate Still Rendering:** Render candidate test stills using `npx remotion still`.
+47. **SSIM & MSE Difference Analysis:** Calculate Structural Similarity Index (SSIM) between original and rendered frames.
+48. **Iterative Parameter Tuning Loop:** Execute automated gradient-descent loop adjusting font scale, stroke, and wave frequency until SSIM > 0.92.
+49. **Multi-Threaded Master Render:** Render 1080p60 MP4 master video via Remotion CLI (`npx remotion render`) using Apple Videotoolbox GPU acceleration on Intel i9 / Radeon Pro 575X.
+50. **Web Asset Export & Git Lock:** Export lightweight WebP/GIF hero loop for website integration, update documentation, and commit changes to Git repository.
