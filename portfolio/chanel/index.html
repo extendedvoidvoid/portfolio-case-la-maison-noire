@@ -73,6 +73,28 @@
       border-color: var(--accent);
       color: var(--accent);
     }
+    .lang-select {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font: 500 11px/1 var(--mono);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-right: 4px;
+    }
+    .lang-select a {
+      color: var(--muted);
+      text-decoration: none;
+      padding: 4px 6px;
+      border-radius: 4px;
+      transition: all 0.2s;
+    }
+    .lang-select a.is-active,
+    .lang-select a:hover {
+      color: var(--ink);
+      font-weight: 600;
+      background: var(--surface);
+    }
     .nav a { color: var(--ink); text-decoration: none; font-size: 13px; font-weight: 500; }
     .nav a:hover { color: var(--muted); }
     .nav .brand { font-family: var(--display); font-size: 20px; }
@@ -644,7 +666,13 @@
         <li><a href="#france-travail">ATS</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
-      <div style="display:flex;align-items:center;gap:12px;">
+      <div style="display:flex;align-items:center;gap:10px;">
+        <nav class="lang-select" aria-label="Language selection">
+          <a href="index.html" class="is-active">FR</a>
+          <a href="en/index.html">EN</a>
+          <a href="es/index.html">ES</a>
+          <a href="it/index.html">IT</a>
+        </nav>
         <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">Nuit ☾</button>
         <a class="pill" href="mailto:extendedvoid.prod@gmail.com">Contact</a>
       </div>

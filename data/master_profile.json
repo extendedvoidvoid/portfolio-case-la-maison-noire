@@ -1,0 +1,79 @@
+{
+  "personal": {
+    "name": "César Cabrera",
+    "aka": "Extended Void / Candice Drouet",
+    "email": "extendedvoid.prod@gmail.com",
+    "phone": "+33 6 02 08 16 48",
+    "address": "134 rue du Renard, 76000 Rouen",
+    "mobility": "Mobile Paris / Neuilly-sur-Seine / Milano / Madrid",
+    "soundcloud": "https://soundcloud.com/extended_void_76000",
+    "vimeo": "https://vimeo.com/reallydim",
+    "github": "https://github.com/extendedvoidvoid"
+  },
+  "locales": {
+    "fr": {
+      "lang": "fr",
+      "label": "FR",
+      "title": "César Cabrera — Concepteur-Rédacteur · Films & Images",
+      "role": "Concepteur-Rédacteur Senior · Films & Images",
+      "headline": "Narration visuelle & formats 360°",
+      "lede": "Concepteur-rédacteur & producteur — Canal+ (Déjà Vu, Séries Entre Potes, La Scène). Depuis 2012, je conçois et produis des récits visuels pour médias, institutions culturelles et marques internationales.",
+      "cred_line": "Couvertures / éditions festivalières Canal+ · Cannes 2021 · Berlinale 2022 · Mostra 2023 · Deauville 2024 · vidéo hommage César 2019 (Robert Redford)",
+      "nav": {
+        "work": "Œuvres",
+        "case_study": "Case study",
+        "cv": "CV",
+        "ats": "ATS",
+        "contact": "Contact"
+      }
+    },
+    "en": {
+      "lang": "en",
+      "label": "EN",
+      "title": "César Cabrera — Senior Creative Copywriter & Editorial Director",
+      "role": "Senior Creative Copywriter & Editorial Director · Fashion & Film",
+      "headline": "Visual Storytelling & 360° Campaigns",
+      "lede": "Senior Creative Copywriter & Executive Producer — Canal+ (Déjà Vu, Séries Entre Potes, La Scène). Crafting cinematic narratives and brand strategy for global luxury, culture, and media since 2012.",
+      "cred_line": "Canal+ Festival Editions & Covers · Cannes 2021 · Berlinale 2022 · Venice Mostra 2023 · Deauville 2024 · Official César Awards 2019 Tribute (Robert Redford)",
+      "nav": {
+        "work": "Selected Work",
+        "case_study": "Case Study",
+        "cv": "CV",
+        "ats": "ATS",
+        "contact": "Contact"
+      }
+    },
+    "es": {
+      "lang": "es",
+      "label": "ES",
+      "title": "César Cabrera — Director Creativo Senior & Guionista",
+      "role": "Director Creativo Senior & Guionista · Cine, Moda y Medios",
+      "headline": "Narrativa Visual & Campañas 360°",
+      "lede": "Director creativo y productor — Canal+ (Déjà Vu, Séries Entre Potes, La Scène). Desde 2012 concibo y produzco narrativas cinematográficas y estrategia de marca para firmas de lujo y medios internacionales.",
+      "cred_line": "Cobertura de Festivales Canal+ · Cannes 2021 · Berlinale 2022 · Mostra de Venecia 2023 · Deauville 2024 · Homenaje Oficial Premios César 2019 (Robert Redford)",
+      "nav": {
+        "work": "Obras",
+        "case_study": "Caso de Estudio",
+        "cv": "CV",
+        "ats": "ATS",
+        "contact": "Contacto"
+      }
+    },
+    "it": {
+      "lang": "it",
+      "label": "IT",
+      "title": "César Cabrera — Senior Creative Director & Visual Storyteller",
+      "role": "Senior Creative Director & Visual Storyteller · Moda, Profumi e Media",
+      "headline": "Storytelling Visivo & Campagne 360°",
+      "lede": "Creative Director & Producer — Canal+ (Déjà Vu, Séries Entre Potes, La Scène). Dal 2012 creo e produco narrazioni visive e strategie di brand per maison di lusso e media internazionali.",
+      "cred_line": "Coperture Festivalier Canal+ · Cannes 2021 · Berlinale 2022 · Mostra di Venezia 2023 · Deauville 2024 · Omaggio Ufficiale Premi Césars 2019 (Robert Redford)",
+      "nav": {
+        "work": "Opere",
+        "case_study": "Case Study",
+        "cv": "CV",
+        "ats": "ATS",
+        "contact": "Contatto"
+      }
+    }
+  }
+}
