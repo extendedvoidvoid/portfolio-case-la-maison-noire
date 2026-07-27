@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>César Cabrera — Concepteur-Rédacteur · Films & Images</title>
   <meta name="description" content="Portfolio — Déjà Vu (Canal+), case study « Absence » film parfum (spec), narration visuelle." />
+  <link rel="icon" type="image/jpeg" href="assets/portrait.jpg" />
+  <link rel="apple-touch-icon" href="assets/portrait.jpg" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -20,6 +22,14 @@
       --sans: 'Inter Tight', system-ui, sans-serif;
       --mono: 'JetBrains Mono', ui-monospace, monospace;
     }
+    [data-theme="dark"] {
+      --canvas: #0a0a0e;
+      --surface: #12131a;
+      --ink: #f3e5ab;
+      --muted: #8e92a2;
+      --hairline: #23252f;
+      --accent: #d4af37;
+    }
     * { box-sizing: border-box; }
     html, body { margin: 0; padding: 0; scroll-behavior: smooth; }
     body {
@@ -29,6 +39,7 @@
       font-size: 16px;
       line-height: 1.55;
       -webkit-font-smoothing: antialiased;
+      transition: background 0.3s, color 0.3s;
     }
     .wrap { max-width: 960px; margin: 0 auto; padding: 0 28px; }
 
@@ -41,6 +52,25 @@
       backdrop-filter: blur(14px);
       border: 1px solid var(--hairline);
       border-radius: 999px;
+    }
+    [data-theme="dark"] .nav {
+      background: rgba(10,10,14,0.9);
+    }
+    .theme-toggle {
+      background: transparent;
+      border: 1px solid var(--hairline);
+      color: var(--ink);
+      font: 500 11px var(--mono);
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 6px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .theme-toggle:hover {
+      border-color: var(--accent);
+      color: var(--accent);
     }
     .nav a { color: var(--ink); text-decoration: none; font-size: 13px; font-weight: 500; }
     .nav a:hover { color: var(--muted); }
@@ -605,7 +635,7 @@
 <body>
   <div class="wrap">
     <header class="nav">
-      <a href="../../index.html" class="brand">César Cabrera</a>
+      <a href="index.html" class="brand">César Cabrera</a>
       <ul class="links">
         <li><a href="#work">Œuvres</a></li>
         <li><a href="#case-study">Case study</a></li>
@@ -613,7 +643,10 @@
         <li><a href="#france-travail">ATS</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
-      <a class="pill" href="mailto:extendedvoid.prod@gmail.com">Contact</a>
+      <div style="display:flex;align-items:center;gap:12px;">
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">Nuit ☾</button>
+        <a class="pill" href="mailto:extendedvoid.prod@gmail.com">Contact</a>
+      </div>
     </header>
 
     <section class="hero">
@@ -694,6 +727,27 @@
           <div class="credits">
             <strong>Rôle</strong> — Concept, rédaction, production, musique originale<br>
             <strong>Crédit</strong> — César Cabrera (Extended Void)
+          </div>
+        </article>
+
+        <article class="work-item" id="extended-void-sound">
+          <span class="tag">Musique Originale & Sound Design</span>
+          <h3>Extended Void — Musiques & Sound Design</h3>
+          <p>Compositions originales, textures sonores et habillage audio pour les formats éditoriaux Canal+, séries et projets créatifs.</p>
+          <div class="video-links">
+            <a href="https://soundcloud.com/extendedvoid" target="_blank" rel="noopener">▶ Écouter sur SoundCloud (Extended Void)</a>
+          </div>
+          <div class="credits">
+            <strong>Crédit Musique</strong> — César Cabrera (Extended Void)
+          </div>
+        </article>
+
+        <article class="work-item" id="pilote-tv">
+          <span class="tag">Format Pilote · Broadcast TV & Digital</span>
+          <h3>Pilotes TV & Formats Originaux (Canal+)</h3>
+          <p>Conception de bibles de programmes, prototypes d’émissions culturelles et formats de flux 360° créés et produits en interne.</p>
+          <div class="credits">
+            <strong>Production Exécutive</strong> — Groupe Canal+ (Déjà Vu, Séries Entre Potes, La Scène)
           </div>
         </article>
       </div>
@@ -1400,6 +1454,21 @@
             try { document.execCommand("copy"); flash(); } catch (e) {}
           }
         });
+      });
+    })();
+
+    (function() {
+      var btn = document.getElementById("theme-toggle");
+      if (!btn) return;
+      var saved = localStorage.getItem("theme") || "light";
+      document.documentElement.setAttribute("data-theme", saved);
+      btn.textContent = saved === "dark" ? "Jour ☼" : "Nuit ☾";
+      btn.addEventListener("click", function() {
+        var current = document.documentElement.getAttribute("data-theme");
+        var next = current === "dark" ? "light" : "dark";
+        document.documentElement.setAttribute("data-theme", next);
+        localStorage.setItem("theme", next);
+        btn.textContent = next === "dark" ? "Jour ☼" : "Nuit ☾";
       });
     })();
   </script>
