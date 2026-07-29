@@ -1,0 +1,90 @@
+{
+  "chunks": {
+    "chunk_01": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_02": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_03": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_04": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_05": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_06": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_07": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_08": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_09": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_10": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_11": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_12": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_13": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_14": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_15": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_16": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_17": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_18": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_19": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_20": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_21": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_22": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_23": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_24": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_25": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_26": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_27": {
+      "status": "pending_rendering_still"
+    },
+    "chunk_28": {
+      "status": "pending_rendering_still"
+    }
+  },
+  "mean_ssim": 0.0,
+  "total_chunks": 28
+}
