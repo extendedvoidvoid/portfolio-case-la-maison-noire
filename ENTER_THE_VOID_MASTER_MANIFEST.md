@@ -1,10 +1,11 @@
 # ENTER THE VOID (TOM KAN 2009) MASTER RECONSTRUCTION & AMPLIFICATION MANIFEST
-
+**Current Version:** 0.1 Forensic Reconstruction Engine  
 **Author:** César Cabrera (Extended Void)  
-**Execution Standard:** 50-Step Milimetric Frame-by-Frame Reconstruction + Modular 5s Incremental Engine  
-**Primary Engine:** Remotion 4.0 (Modular React Compositions) + OpenCV + Ollama Qwen2.5-VL  
+**Execution Standard:** 50-Step Milimetric Frame-by-Frame Reconstruction + 30,000V Kirlian Analysis + Modular 5s Incremental Engine  
+**Primary Engine:** Remotion 4.0 (Modular React Compositions + WebGL SVG Shaders) + OpenCV + Pillow  
 **Target Sequence:** 3,408 Frames (142s @ 23.976 fps / 60 fps Remotion Timeline)  
 **Chunk Size:** 5-Second Incremental Modules (28 Total 5s Chunks)  
+**Forensic Manual Reference:** `data/ENTER_THE_VOID_FORENSIC_DECONSTRUCTION_35MM.md`  
 **Name Corpus:** 32 Custom Portfolio Keywords (César Cabrera Master Corpus)
 
 ---
